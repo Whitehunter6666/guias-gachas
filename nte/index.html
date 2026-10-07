@@ -223,6 +223,7 @@
 <script src="fichas.js"></script>
 <script src="data.js"></script>
 <script>
+const thumb = u => /static\.wikia\.nocookie\.net/.test(u) ? u + "/revision/latest/scale-to-width-down/400" : u;
 const ELEM_COLORS = {
   "Lakshana": "#ffcf5e", "Chaos": "#c77dff", "Cosmos": "#4fd0ff",
   "Anima": "#57e6a2", "Encantamiento": "#ff8a4c", "Incantation": "#ff8a4c", "Psyche": "#ff6ac1",
@@ -293,7 +294,7 @@ function show(id, list) {
 
   const fi = (typeof FICHAS !== "undefined" && FICHAS[c.id]) || {};
   const artInner = fi.img
-    ? `<img src="${fi.img}" alt="${c.nombre}" loading="lazy" onerror="this.remove()"><span class="ph">${c.nombre[0]}</span>`
+    ? `<img src="${thumb(fi.img)}" alt="${c.nombre}" loading="lazy" onerror="this.remove()"><span class="ph">${c.nombre[0]}</span>`
     : `<span class="ph">${c.nombre[0]}</span>`;
   const fichaHtml = `
     <div class="ficha">

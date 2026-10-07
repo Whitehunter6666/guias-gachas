@@ -154,6 +154,7 @@
 
 <script src="data.js"></script>
 <script>
+const thumb = u => /static\.wikia\.nocookie\.net/.test(u) ? u + "/revision/latest/scale-to-width-down/400" : u;
 const ELEM_COLORS = {
   "Glacio": "#8fe3ff", "Fusión": "#ff6a3c", "Electro": "#c77dff",
   "Aéreo": "#57e6a2", "Espectro": "#ffd75e", "Estrago": "#c46aff",
@@ -232,7 +233,7 @@ function show(id, list) {
   }).join("");
 
   const f = c.ficha || {};
-  const artInner = f.img ? `<img src="${f.img}" alt="${c.nombre}" loading="lazy" onerror="this.remove()"><span class="ph">${c.nombre[0]}</span>` : `<span class="ph">${c.nombre[0]}</span>`;
+  const artInner = f.img ? `<img src="${thumb(f.img)}" alt="${c.nombre}" loading="lazy" onerror="this.remove()"><span class="ph">${c.nombre[0]}</span>` : `<span class="ph">${c.nombre[0]}</span>`;
   const fichaHtml = `
     <div class="ficha">
       <div class="art" style="background:linear-gradient(160deg, ${elemColor(c.elemento)}33, var(--bg2))">${artInner}</div>

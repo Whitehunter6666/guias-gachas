@@ -303,6 +303,7 @@
 <script src="fichas.js"></script>
 <script src="data.js"></script>
 <script>
+const thumb = u => /static\.wikia\.nocookie\.net/.test(u) ? u + "/revision/latest/scale-to-width-down/400" : u;
 // ---------- Colores por atributo ----------
 const ATTR_COLORS = {
   "Físico":       "#f5e6c8",
@@ -420,7 +421,7 @@ function show(id, list) {
 
   const f = (typeof FICHAS !== "undefined" && FICHAS[c.id]) || c.ficha || {};
   const artInner = f.img
-    ? `<img src="${f.img}" alt="${c.nombre}" loading="lazy" onerror="this.remove()"><span class="ph">${c.nombre[0]}</span>`
+    ? `<img src="${thumb(f.img)}" alt="${c.nombre}" loading="lazy" onerror="this.remove()"><span class="ph">${c.nombre[0]}</span>`
     : `<span class="ph">${c.nombre[0]}</span>`;
   const fichaHtml = `
     <div class="ficha">

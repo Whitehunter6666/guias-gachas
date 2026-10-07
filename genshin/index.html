@@ -158,6 +158,7 @@
 
 <script src="data.js"></script>
 <script>
+const thumb = u => /static\.wikia\.nocookie\.net/.test(u) ? u + "/revision/latest/scale-to-width-down/400" : u;
 const ELEM_COLORS = {
   "Pyro": "#ff7a45", "Hydro": "#4cc2f1", "Electro": "#c77dff",
   "Cryo": "#8fe3ff", "Anemo": "#5cd6a9", "Geo": "#f5b544", "Dendro": "#a5d84a",
@@ -213,7 +214,7 @@ function show(id, list) {
   const arena = c.arena || {}, caliz = c.caliz || {}, tiara = c.tiara || {};
   const rows = [
     { lbl: "🌸 Flor de la Vida", fixed: true, r: { principal: "PV" } },
-    { lbl: "🪶 Pluma de la Muerte", fixed: true, r: { principal: "ATQ" } },
+    { lbl: "✒️ Pluma de la Muerte", fixed: true, r: { principal: "ATQ" } },
     { lbl: "⏳ Arena del Tiempo", r: arena },
     { lbl: "🍷 Cáliz de Eón", r: caliz },
     { lbl: "👑 Tiara de la Razón", r: tiara },
@@ -235,7 +236,7 @@ function show(id, list) {
   }).join("");
 
   const f = c.ficha || {};
-  const artInner = f.img ? `<img src="${f.img}" alt="${c.nombre}" loading="lazy" onerror="this.remove()"><span class="ph">${c.nombre[0]}</span>` : `<span class="ph">${c.nombre[0]}</span>`;
+  const artInner = f.img ? `<img src="${thumb(f.img)}" alt="${c.nombre}" loading="lazy" onerror="this.remove()"><span class="ph">${c.nombre[0]}</span>` : `<span class="ph">${c.nombre[0]}</span>`;
   const fichaHtml = `
     <div class="ficha">
       <div class="art" style="background:linear-gradient(160deg, ${elemColor(c.elemento)}33, var(--bg2))">${artInner}</div>

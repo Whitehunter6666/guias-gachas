@@ -1,6 +1,6 @@
 // ============================================================
 //  WuWa Guía rápida — datos de personajes (Wuthering Waves)
-//  57 Resonadores. Auditado; incluye v3.6 (Qingxiao 20-ago-2026, Jingran 10-sep-2026).
+//  58 Resonadores. Auditado; incluye v3.6 (Qingxiao 20-ago-2026, Jingran 10-sep-2026) y v3.7 (Hsin 30-sep-2026, ficha parcial; Suoming llega el 22-oct-2026).
 // ============================================================
 const CHARACTERS = [
   {
@@ -5007,5 +5007,83 @@ const CHARACTERS = [
       "img": "https://static.wikia.nocookie.net/wutheringwaves/images/4/44/Jingran_Card.jpg"
     },
     "version": "3.6"
+  },
+  {
+    "id": "hsin",
+    "nombre": "Hsin",
+    "rareza": "5",
+    "elemento": "Electro",
+    "arma": "Rectificador",
+    "faccion": "Huanglong",
+    "estado": "parcial",
+    "costo4": {
+      "principal": "Prob. Crítico",
+      "alt": "Daño Crítico"
+    },
+    "costo3": {
+      "principal": "Bonificación de Daño Electro",
+      "alt": "ATQ%"
+    },
+    "costo1": {
+      "principal": "ATQ%",
+      "alt": "ATQ%"
+    },
+    "ecoPrincipal": "Por confirmar (la 3.7 añade el eco Fantasma Skywatch Lancer)",
+    "substats": [
+      "Prob. Crítico",
+      "Daño Crítico",
+      "ATQ%",
+      "Regeneración de Energía",
+      "Daño de Habilidad de Resonancia"
+    ],
+    "armas": [
+      {
+        "es": "Blooming Jadehaven (nombre ES por confirmar)",
+        "en": "Blooming Jadehaven",
+        "nota": "Arma insignia 5★ (banner Pulsación Absoluta de la v3.7; subestadística Prob. Crítico). A rango 1: +12% Bonif. de Daño de todos los atributos; tras infligir Electro Flare o activar Respuesta de Unísono, el Daño de Habilidad de Resonancia se amplifica un 36% e ignora el 10% de RES Electro; además, el daño de Electro Flare que reciben los enemigos cercanos se amplifica un 30% durante 30s.",
+        "best": true
+      },
+      {
+        "es": "Maestro de Cuerdas",
+        "en": "Stringmaster",
+        "nota": "5★ estándar de Rectificador; alternativa permanente mientras no se tenga el arma insignia (sin comparativa verificada para Hsin).",
+        "best": false
+      },
+      {
+        "es": "Ondas Cósmicas",
+        "en": "Cosmic Ripples",
+        "nota": "5★ estándar de Rectificador; segunda alternativa permanente (sin comparativa verificada para Hsin).",
+        "best": false
+      }
+    ],
+    "ecos": [
+      {
+        "es": "Heart of Sworn Vigil (nombre ES por confirmar)",
+        "en": "Heart of Sworn Vigil",
+        "nota": "Set Sonata NUEVO de la 3.7 (confirmado en la wiki): 2 piezas +10% Daño Electro; 5 piezas: al infligir Electro Flare, obtener Unísono o activar Respuesta de Unísono, +15% Prob. Crítico y +22,5% Daño Electro durante 30s. Encaja con su kit basado en Electro Flare; elección preliminar.",
+        "best": true
+      },
+      {
+        "es": "Trueno del Vacío",
+        "en": "Void Thunder",
+        "nota": "Set Electro anterior (2 piezas: +10% Daño Electro) como alternativa mientras se farmea el set nuevo.",
+        "best": false
+      }
+    ],
+    "equipos": [
+      {
+        "nombre": "Equipos por confirmar",
+        "nota": "Kit recién lanzado (v3.7, 30-sep-2026): todavía no hay equipos con consenso verificable. Se completará cuando haya guías fiables.",
+        "best": false
+      }
+    ],
+    "consejo": "DPS principal Electro de daño de Habilidad de Resonancia basado en Electro Flare; salió en la v3.7 fase 1 (30-sep-2026). Alterna dos formas: Forma de Respuesta (Answering Form) y Forma de Iluminación (Illumining Form). En la Forma de Iluminación puede entrar en Dominio Mecánico (Mechanism Dominion, 13s), donde los Mecanismos de Xuanfang atacan por ella; su Ataque Básico coloca un Candado Modular (Modular Heartlock) que colapsa con el siguiente ataque o habilidad. Su arma insignia amplifica el Daño de Habilidad de Resonancia tras infligir Electro Flare o activar Respuesta de Unísono, así que prioriza mantener Electro Flare activo. FICHA PRELIMINAR: la 3.7 es muy reciente; las estadísticas principales siguen el estándar de un DPS Electro de habilidad y el set y las armas salen del kit y de lo publicado en la wiki. Se actualizará cuando haya guías verificadas.",
+    "ficha": {
+      "nombreCompleto": "Hsin",
+      "faccion": "Huanglong",
+      "desc": "Resonadora 5 estrellas de Electro con Rectificador, conocida como \"La Zorra de la Luna\"; una de las siete Centinelas de Huanglong, ubicada en Mengzhou. Amante de las fiestas y las travesuras, es DPS principal de Habilidad de Resonancia y Electro Flare.",
+      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d6/Hsin_Card.jpg"
+    },
+    "version": "3.7"
   }
 ];
