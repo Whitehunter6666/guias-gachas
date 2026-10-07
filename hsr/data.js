@@ -86,7 +86,7 @@ const CHARACTERS = [
       "nombreCompleto": "Trazacaminos (Destrucción)",
       "faccion": "Expreso Astral",
       "desc": "Protagonista del Expreso Astral que canaliza el Camino de la Destrucción con daño Físico, escalando su definitivo según el modo elegido.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Character_Trailblazer_%28F%29_Destruction_Portrait.png"
+      "img": "../assets/hsr/Character_Trailblazer__F__Destruction_Portrait-70e6077c.webp"
     }
   },
   {
@@ -172,7 +172,7 @@ const CHARACTERS = [
       "nombreCompleto": "Trazacaminos (Conservación)",
       "faccion": "Expreso Astral",
       "desc": "El Trazacaminos por la senda de la Conservación: protege al equipo con escudos y contraataca con daño de Fuego mientras absorbe el aggro.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Character_Trailblazer_%28F%29_Preservation_Portrait.png"
+      "img": "../assets/hsr/Character_Trailblazer__F__Preservation_Portrait-ef6f97c0.webp"
     }
   },
   {
@@ -262,7 +262,7 @@ const CHARACTERS = [
       "nombreCompleto": "Trazacaminos (Armonía)",
       "faccion": "Expreso Astral",
       "desc": "El Trazacaminos por la senda de la Armonía, de elemento Imaginario: habilita la Super Ruptura y potencia el daño de ruptura de todo el equipo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Character_Trailblazer_%28F%29_Harmony_Portrait.png"
+      "img": "../assets/hsr/Character_Trailblazer__F__Harmony_Portrait-1f2938e7.webp"
     }
   },
   {
@@ -352,7 +352,7 @@ const CHARACTERS = [
       "nombreCompleto": "Trazacaminos (Reminiscencia)",
       "faccion": "Expreso Astral",
       "desc": "El Trazacaminos por la senda del Reminiscencia, de elemento Hielo: invoca a su memoesbirro 'Mem' para apoyar, adelantar turnos y aumentar el daño del equipo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Character_Trailblazer_%28F%29_Remembrance_Portrait.png"
+      "img": "../assets/hsr/Character_Trailblazer__F__Remembrance_Portrait-754d3a74.webp"
     }
   },
   {
@@ -438,7 +438,7 @@ const CHARACTERS = [
       "nombreCompleto": "Siete de Marzo",
       "faccion": "Expreso Astral",
       "desc": "Chica alegre del Expreso Astral que despertó sin recuerdos dentro de un bloque de hielo; arquera de Hielo del Camino de la Conservación que escuda al equipo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Character_March_7th_%28Preservation%29_Portrait.png"
+      "img": "../assets/hsr/Character_March_7th__Preservation__Portrait-8f6e97d2.webp"
     }
   },
   {
@@ -523,7 +523,7 @@ const CHARACTERS = [
       "nombreCompleto": "Siete de Marzo (Cacería)",
       "faccion": "Expreso Astral",
       "desc": "Siete de Marzo tras aprender la espada; sub-DPS de elemento Imaginario del Camino de Cacería que designa a un aliado y lanza ataques de seguimiento a su lado.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Character_March_7th_%28The_Hunt%29_Portrait.png"
+      "img": "../assets/hsr/Character_March_7th__The_Hunt__Portrait-b41f4be9.webp"
     }
   },
   {
@@ -608,7 +608,7 @@ const CHARACTERS = [
       "nombreCompleto": "Dan Heng",
       "faccion": "Expreso Astral",
       "desc": "Guardián taciturno y conductor del Expreso Astral; lancero de Viento del Camino de Cacería que huye de un pasado como Vidyadhara.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/Character_Dan_Heng_Portrait.png"
+      "img": "../assets/hsr/Character_Dan_Heng_Portrait-eb61d3c4.webp"
     }
   },
   {
@@ -693,7 +693,7 @@ const CHARACTERS = [
       "nombreCompleto": "Dan Heng • Imbibitor Lunae",
       "faccion": "Expreso Astral",
       "desc": "Forma despierta de Dan Heng que reclama su herencia como Imbibitor Lunae de los Vidyadhara; DPS Imaginario del Camino de la Destrucción basado en el ataque básico.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Character_Dan_Heng_%E2%80%A2_Imbibitor_Lunae_Portrait.png"
+      "img": "../assets/hsr/Character_Dan_Heng___Imbibitor_Lunae_Portrait-a2315fd7.webp"
     }
   },
   {
@@ -779,7 +779,7 @@ const CHARACTERS = [
       "nombreCompleto": "Dan Heng • Permansor Terrae",
       "faccion": "Expreso Astral",
       "desc": "Otra encarnación de Dan Heng, el Permansor Terrae; soporte Físico del Camino de la Conservación que escala con ATQ, escuda, limpia debuffs y potencia el ataque del equipo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Character_Dan_Heng_%E2%80%A2_Permansor_Terrae_Portrait.png"
+      "img": "../assets/hsr/Character_Dan_Heng___Permansor_Terrae_Portrait-812a23ea.webp"
     }
   },
   {
@@ -865,7 +865,7 @@ const CHARACTERS = [
       "nombreCompleto": "Himeko",
       "faccion": "Expreso Astral",
       "desc": "Ingeniera, navegante y anfitriona del Expreso Astral; maga de Fuego del Camino de la Erudición que arrasa en área y remata con seguimientos al romper debilidades.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Character_Himeko_Portrait.png"
+      "img": "../assets/hsr/Character_Himeko_Portrait-975912a9.webp"
     }
   },
   {
@@ -954,7 +954,7 @@ const CHARACTERS = [
       "nombreCompleto": "Welt Yang",
       "faccion": "Expreso Astral",
       "desc": "Veterano miembro del Expreso Astral y antiguo héroe de otro mundo. Empuña un bastón y el poder de la gravedad imaginaria para frenar y castigar a sus enemigos.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Character_Welt_Splash_Art.png"
+      "img": "../assets/hsr/Character_Welt_Splash_Art-1ed70358.webp"
     }
   },
   {
@@ -1043,7 +1043,7 @@ const CHARACTERS = [
       "nombreCompleto": "Asta",
       "faccion": "Estación Espacial Herta",
       "desc": "Jefa de investigación de la Estación Espacial Herta, alegre y muy trabajadora. Potencia el ataque y la velocidad de todo el equipo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/Character_Asta_Splash_Art.png"
+      "img": "../assets/hsr/Character_Asta_Splash_Art-158a8379.webp"
     }
   },
   {
@@ -1132,7 +1132,7 @@ const CHARACTERS = [
       "nombreCompleto": "Herta (marioneta)",
       "faccion": "Estación Espacial Herta",
       "desc": "Genio excéntrica y miembro del Club de los Genios que interactúa mediante una marioneta con forma de peluche. Lanza contraataques de Hielo en área.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Character_Herta_Splash_Art.png"
+      "img": "../assets/hsr/Character_Herta_Splash_Art-01c3d634.webp"
     }
   },
   {
@@ -1221,7 +1221,7 @@ const CHARACTERS = [
       "nombreCompleto": "La Herta (Sra. Herta)",
       "faccion": "Sociedad de Genios",
       "desc": "La auténtica Herta en persona, una de las mentes más brillantes del universo y miembro de la Sociedad de Genios. DPS de Hielo en área de la vía Erudición.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Character_The_Herta_Splash_Art.png"
+      "img": "../assets/hsr/Character_The_Herta_Splash_Art-fc5d9456.webp"
     }
   },
   {
@@ -1310,7 +1310,7 @@ const CHARACTERS = [
       "nombreCompleto": "Arlan",
       "faccion": "Estación Espacial Herta",
       "desc": "Líder del equipo de seguridad de la Estación Espacial Herta. Sacrifica su propia salud para desatar poderosos golpes de Rayo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Character_Arlan_Splash_Art.png"
+      "img": "../assets/hsr/Character_Arlan_Splash_Art-be4e7420.webp"
     }
   },
   {
@@ -1399,7 +1399,7 @@ const CHARACTERS = [
       "nombreCompleto": "Bronya Rand",
       "faccion": "Jarilo-VI (Belobog)",
       "desc": "Supervisora de los Guardianes Siláceos de Belobog e hija adoptiva de Cocolia. Líder serena que adelanta el turno de sus aliados y potencia su daño.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/Character_Bronya_Splash_Art.png"
+      "img": "../assets/hsr/Character_Bronya_Splash_Art-9d29410d.webp"
     }
   },
   {
@@ -1488,7 +1488,7 @@ const CHARACTERS = [
       "nombreCompleto": "Seele",
       "faccion": "Jarilo-VI (Fuego Salvaje)",
       "desc": "Miembro de los Renegados del Inframundo de Belobog, ágil y letal. Al derrotar a un enemigo entra en Resurgimiento y obtiene un turno adicional.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/Character_Seele_Splash_Art.png"
+      "img": "../assets/hsr/Character_Seele_Splash_Art-09cd7c18.webp"
     }
   },
   {
@@ -1577,7 +1577,7 @@ const CHARACTERS = [
       "nombreCompleto": "Gepard Landau",
       "faccion": "Jarilo-VI (Silvermane)",
       "desc": "Capitán de los Guardianes Siláceos de Belobog, caballero leal e inquebrantable. Protege a su equipo con escudos y control de Hielo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Character_Gepard_Splash_Art.png"
+      "img": "../assets/hsr/Character_Gepard_Splash_Art-12ab3ad6.webp"
     }
   },
   {
@@ -1666,7 +1666,7 @@ const CHARACTERS = [
       "nombreCompleto": "Clara",
       "faccion": "Jarilo-VI",
       "desc": "Huérfana del Inframundo de Belobog acompañada por el robot guardián Svarog. Responde con contraataques devastadores cuando la atacan a ella o a sus aliados.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/Character_Clara_Splash_Art.png"
+      "img": "../assets/hsr/Character_Clara_Splash_Art-2ef1a72f.webp"
     }
   },
   {
@@ -1755,7 +1755,7 @@ const CHARACTERS = [
       "nombreCompleto": "Serval Landau",
       "faccion": "Jarilo-VI",
       "desc": "Ingeniera y estrella del rock del Inframundo de Belobog, y hermana de Gepard. Desata daño de Rayo en área y aplica Choque a los enemigos.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Character_Serval_Splash_Art.png"
+      "img": "../assets/hsr/Character_Serval_Splash_Art-b7387d9c.webp"
     }
   },
   {
@@ -1846,7 +1846,7 @@ const CHARACTERS = [
       "nombreCompleto": "Natasha",
       "faccion": "Jarilo-VI",
       "desc": "Doctora del Sector Subterráneo de Belobog que atiende gratis a los desfavorecidos y ejerce de figura maternal para los huérfanos de los Escombros.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Character_Natasha_Splash_Art.png"
+      "img": "../assets/hsr/Character_Natasha_Splash_Art-c4213f1a.webp"
     }
   },
   {
@@ -1938,7 +1938,7 @@ const CHARACTERS = [
       "nombreCompleto": "Pela Aleksandrovna",
       "faccion": "Jarilo-VI (Silvermane)",
       "desc": "Oficial de inteligencia de la Guarnición Silvermane, meticulosa y estudiosa, experta en descifrar información y ordenar el caos del campo de batalla.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Character_Pela_Splash_Art.png"
+      "img": "../assets/hsr/Character_Pela_Splash_Art-184863e9.webp"
     }
   },
   {
@@ -2029,7 +2029,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sampo Koski",
       "faccion": "Jarilo-VI",
       "desc": "Vendedor ambulante y estafador de labia fácil que aparece donde huele beneficio; escurridizo, teatral y con más secretos de los que aparenta.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Character_Sampo_Splash_Art.png"
+      "img": "../assets/hsr/Character_Sampo_Splash_Art-0ab259d3.webp"
     }
   },
   {
@@ -2120,7 +2120,7 @@ const CHARACTERS = [
       "nombreCompleto": "Hook",
       "faccion": "Jarilo-VI (Topos)",
       "desc": "Líder infantil de la Pandilla de Moles en los Escombros, enérgica y leal a sus amigos, que reparte 'justicia' a fuerza de puñetazos y fuego.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Character_Hook_Splash_Art.png"
+      "img": "../assets/hsr/Character_Hook_Splash_Art-074074d3.webp"
     }
   },
   {
@@ -2212,7 +2212,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lynx Landau",
       "faccion": "Jarilo-VI (Familia Landau)",
       "desc": "Miembro de la familia Landau y exploradora todoterreno de las tierras nevadas; alegre y resistente, siempre lista para socorrer a quien lo necesite.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Character_Lynx_Splash_Art.png"
+      "img": "../assets/hsr/Character_Lynx_Splash_Art-0a069d35.webp"
     }
   },
   {
@@ -2303,7 +2303,7 @@ const CHARACTERS = [
       "nombreCompleto": "Luka",
       "faccion": "Jarilo-VI (Fuego Salvaje)",
       "desc": "Boxeador estrella del Sector Subterráneo, carismático y ambicioso, que sueña con llevar la fama de los Escombros a lo más alto del ring.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Character_Luka_Splash_Art.png"
+      "img": "../assets/hsr/Character_Luka_Splash_Art-3531c153.webp"
     }
   },
   {
@@ -2394,7 +2394,7 @@ const CHARACTERS = [
       "nombreCompleto": "Jing Yuan",
       "faccion": "Xianzhou Luofu",
       "desc": "General de la Alianza Divina de Xianzhou y comandante de las Cloud Knights; sereno y sagaz, invoca al Señor del Rayo para arrasar a sus enemigos.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Character_Jing_Yuan_Splash_Art.png"
+      "img": "../assets/hsr/Character_Jing_Yuan_Splash_Art-9becb29a.webp"
     }
   },
   {
@@ -2485,7 +2485,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yanqing",
       "faccion": "Xianzhou Luofu",
       "desc": "Joven y prodigioso espadachín al servicio del general Jing Yuan; talentoso hasta la arrogancia, sueña con forjar la espada perfecta.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Character_Yanqing_Splash_Art.png"
+      "img": "../assets/hsr/Character_Yanqing_Splash_Art-06a4e23e.webp"
     }
   },
   {
@@ -2577,7 +2577,7 @@ const CHARACTERS = [
       "nombreCompleto": "Bailu",
       "faccion": "Xianzhou Luofu",
       "desc": "Dragón sanadora heredera del Aljibe de la Vidalarga; juguetona y algo infantil, domina una medicina capaz incluso de traer de vuelta a los caídos.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Character_Bailu_Splash_Art.png"
+      "img": "../assets/hsr/Character_Bailu_Splash_Art-d80792a3.webp"
     }
   },
   {
@@ -2669,7 +2669,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sushang",
       "faccion": "Xianzhou Luofu",
       "desc": "Joven y disciplinada espadachina de las Cloud Knights de Xianzhou, admiradora de las leyendas heroicas y siempre entusiasta por mejorar su técnica.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Character_Sushang_Splash_Art.png"
+      "img": "../assets/hsr/Character_Sushang_Splash_Art-7f87147f.webp"
     }
   },
   {
@@ -2763,7 +2763,7 @@ const CHARACTERS = [
       "nombreCompleto": "Tingyun",
       "faccion": "Xianzhou Luofu",
       "desc": "Cornucopia de la Alianza Comercial Interastral y vidyadhara al servicio de la Xianzhou Luofu; una mercader carismática y astuta, experta en los negocios.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Character_Tingyun_Splash_Art.png"
+      "img": "../assets/hsr/Character_Tingyun_Splash_Art-02164a62.webp"
     }
   },
   {
@@ -2857,7 +2857,7 @@ const CHARACTERS = [
       "nombreCompleto": "Qingque",
       "faccion": "Xianzhou Luofu",
       "desc": "Funcionaria del Departamento de Divinaciones de la Xianzhou Luofu, perezosa y obsesionada con el mahjong, que preferiría jugar antes que trabajar.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/Character_Qingque_Splash_Art.png"
+      "img": "../assets/hsr/Character_Qingque_Splash_Art-cce33669.webp"
     }
   },
   {
@@ -2947,7 +2947,7 @@ const CHARACTERS = [
       "nombreCompleto": "Fu Xuan",
       "faccion": "Xianzhou Luofu",
       "desc": "Maestra del Consejo de los Diez Capitanes y jefa de la División Taibu de la Xianzhou Luofu, capaz de vislumbrar el futuro con su ojo de matriz.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Character_Fu_Xuan_Splash_Art.png"
+      "img": "../assets/hsr/Character_Fu_Xuan_Splash_Art-0a0ae2fe.webp"
     }
   },
   {
@@ -3037,7 +3037,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yukong",
       "faccion": "Xianzhou Luofu",
       "desc": "Comandante de la Flota de Halcones Celestiales de la Xianzhou Luofu, una arquera veterana que guía a los jóvenes pilotos.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/Character_Yukong_Splash_Art.png"
+      "img": "../assets/hsr/Character_Yukong_Splash_Art-2bb25557.webp"
     }
   },
   {
@@ -3131,7 +3131,7 @@ const CHARACTERS = [
       "nombreCompleto": "Jingliu",
       "faccion": "Xianzhou Luofu",
       "desc": "Legendaria espadachina y antigua líder de los Guardianes de Espada de la Xianzhou, sumida en la locura de la mara pero de un poder inigualable.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Character_Jingliu_Splash_Art.png"
+      "img": "../assets/hsr/Character_Jingliu_Splash_Art-1c540eb3.webp"
     }
   },
   {
@@ -3221,7 +3221,7 @@ const CHARACTERS = [
       "nombreCompleto": "Huohuo",
       "faccion": "Xianzhou Luofu",
       "desc": "Joven aprendiza de la Comisión Tenkong de la Xianzhou Luofu que exorciza espíritus junto a la cola maldita Tail; siempre temerosa, pero valiente.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/Character_Huohuo_Splash_Art.png"
+      "img": "../assets/hsr/Character_Huohuo_Splash_Art-2c77d84f.webp"
     }
   },
   {
@@ -3311,7 +3311,7 @@ const CHARACTERS = [
       "nombreCompleto": "Guinaifen",
       "faccion": "Xianzhou Luofu",
       "desc": "Artista callejera y tragafuegos de la Xianzhou Luofu, popular streamer que difunde noticias y rumores por toda la nave.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Character_Guinaifen_Splash_Art.png"
+      "img": "../assets/hsr/Character_Guinaifen_Splash_Art-353df6ca.webp"
     }
   },
   {
@@ -3401,7 +3401,7 @@ const CHARACTERS = [
       "nombreCompleto": "Hanya",
       "faccion": "Xianzhou Luofu",
       "desc": "Interventora de la Comisión Tianji de la Xianzhou Luofu, encargada de perseguir a los infractores; hermana de Xueyi y firme cumplidora de la ley.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Character_Hanya_Splash_Art.png"
+      "img": "../assets/hsr/Character_Hanya_Splash_Art-8bbc1b8e.webp"
     }
   },
   {
@@ -3491,7 +3491,7 @@ const CHARACTERS = [
       "nombreCompleto": "Xueyi",
       "faccion": "Xianzhou Luofu",
       "desc": "Verdugo de la Comisión Tianji de la Xianzhou Luofu, un cuerpo artificial sin memoria vinculado a Hanya que persigue almas fugitivas.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Character_Xueyi_Splash_Art.png"
+      "img": "../assets/hsr/Character_Xueyi_Splash_Art-8e3d6613.webp"
     }
   },
   {
@@ -3585,7 +3585,7 @@ const CHARACTERS = [
       "nombreCompleto": "Feixiao",
       "faccion": "Xianzhou Luofu (Garra de Merlin)",
       "desc": "Marquesa 'Garra de Merlín' y una de las Siete Arbitros-Generales de la Xianzhou; foxiana intrépida y temeraria en la batalla.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/Character_Feixiao_Splash_Art.png"
+      "img": "../assets/hsr/Character_Feixiao_Splash_Art-55c3927f.webp"
     }
   },
   {
@@ -3697,7 +3697,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yunli",
       "faccion": "Xianzhou Luofu",
       "desc": "Heredera de la Fragua Celeste de la Nave Zhuming afincada en el Luofu, espadachina impetuosa y directa que domina el arte de la contra. Su estilo de combate se basa en absorber el golpe enemigo y devolverlo multiplicado.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Character_Yunli_Splash_Art.png"
+      "img": "../assets/hsr/Character_Yunli_Splash_Art-ab00050a.webp"
     }
   },
   {
@@ -3803,7 +3803,7 @@ const CHARACTERS = [
       "nombreCompleto": "Jiaoqiu",
       "faccion": "Xianzhou Luofu",
       "desc": "Foxian y comandante del Cuerpo de Alquimistas del Luofu, tan sagaz con las especias como con las estratagemas. Debilita a los enemigos untándolos de un abrasador ardor que multiplica el daño que sufren.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/Character_Jiaoqiu_Splash_Art.png"
+      "img": "../assets/hsr/Character_Jiaoqiu_Splash_Art-b01429c3.webp"
     }
   },
   {
@@ -3909,7 +3909,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lingsha",
       "faccion": "Xianzhou Luofu",
       "desc": "Directora del Salón Wardance y perfumista de la Nave Zhuming, serena y resolutiva. Combate junto a su invocación de fuego Fuyuan, sanando al equipo mientras castiga a los enemigos con daño de Ruptura.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/Character_Lingsha_Splash_Art.png"
+      "img": "../assets/hsr/Character_Lingsha_Splash_Art-30ac4c8f.webp"
     }
   },
   {
@@ -4015,7 +4015,7 @@ const CHARACTERS = [
       "nombreCompleto": "Moze",
       "faccion": "Xianzhou Luofu (Garra de Merlin)",
       "desc": "Agente encubierto al servicio del general Jing Yuan en el Luofu, callado y letal. Caza a sus objetivos marcándolos como presa y descargando sobre ellos relámpagos en persecución implacable.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Character_Moze_Splash_Art.png"
+      "img": "../assets/hsr/Character_Moze_Splash_Art-4b4621e4.webp"
     }
   },
   {
@@ -4121,7 +4121,7 @@ const CHARACTERS = [
       "nombreCompleto": "Tingyun • Fugue",
       "faccion": "Xianzhou Zhuming",
       "desc": "Encarnación de Tingyun tras fundirse con el Emanador de Fuli, más fría y calculadora que la mercader foxiana original. Rompe las defensas enemigas potenciando la Ruptura de todo el equipo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/Character_Fugue_Splash_Art.png"
+      "img": "../assets/hsr/Character_Fugue_Splash_Art-2f28940b.webp"
     }
   },
   {
@@ -4227,7 +4227,7 @@ const CHARACTERS = [
       "nombreCompleto": "Silver Wolf",
       "faccion": "Cazadores de Estelarones",
       "desc": "Hacker prodigio de los Cazadores de Estelarones que trata el universo como un videojuego a modo. Reescribe la 'programación' del combate implantando debilidades y bugs de defensa en sus enemigos.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Character_Silver_Wolf_Splash_Art.png"
+      "img": "../assets/hsr/Character_Silver_Wolf_Splash_Art-12fb377a.webp"
     }
   },
   {
@@ -4333,7 +4333,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kafka",
       "faccion": "Cazadores de Estelarones",
       "desc": "Miembro de élite de los Cazadores de Estelarones, elegante e imperturbable, con un misterioso vínculo con el Trailblazer. Electrocuta a sus rivales sembrando Shock y detonando el daño acumulado a voluntad.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/Character_Kafka_Splash_Art.png"
+      "img": "../assets/hsr/Character_Kafka_Splash_Art-bce02184.webp"
     }
   },
   {
@@ -4439,7 +4439,7 @@ const CHARACTERS = [
       "nombreCompleto": "Blade",
       "faccion": "Cazadores de Estelarones",
       "desc": "Espadachín inmortal de los Cazadores de Estelarones atormentado por su pasado en el Luofu como Yingxing. Blande su propia sangre y dolor como arma, cortando a los enemigos a costa de su vida.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/Character_Blade_Splash_Art.png"
+      "img": "../assets/hsr/Character_Blade_Splash_Art-31368fe8.webp"
     }
   },
   {
@@ -4545,7 +4545,7 @@ const CHARACTERS = [
       "nombreCompleto": "Firefly (SAM)",
       "faccion": "Cazadores de Estelarones",
       "desc": "Piloto de los Stellaron Hunters y última superviviente del Proyecto Glamoth, enferma de entropía pero decidida a hallar un mundo libre. Pilota el mecha SAM para incinerar a sus enemigos con Ruptura ígnea.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Character_Firefly_Splash_Art.png"
+      "img": "../assets/hsr/Character_Firefly_Splash_Art-49442519.webp"
     }
   },
   {
@@ -4651,7 +4651,7 @@ const CHARACTERS = [
       "nombreCompleto": "Luocha",
       "faccion": "Comerciante errante",
       "desc": "Enigmático mercader errante y consumado sanador que porta siempre un ataúd. Bajo su cortesía se esconde un Emanador de la Abundancia con motivos ocultos, capaz de restaurar a los aliados sin esfuerzo aparente.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/Character_Luocha_Splash_Art.png"
+      "img": "../assets/hsr/Character_Luocha_Splash_Art-19db79f5.webp"
     }
   },
   {
@@ -4766,7 +4766,7 @@ const CHARACTERS = [
       "nombreCompleto": "Dr. Ratio (Verityn)",
       "faccion": "Gremio Intelligentsia / IPC",
       "desc": "Genio arrogante y erudito del Gremio de la Intelligentsia de la IPC. Menospreciado por la Sociedad de Genios, se dedica a resolver los problemas de la humanidad con su intelecto implacable.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/Character_Dr._Ratio_Splash_Art.png"
+      "img": "../assets/hsr/Character_Dr._Ratio_Splash_Art-c2eb5b71.webp"
     }
   },
   {
@@ -4882,7 +4882,7 @@ const CHARACTERS = [
       "nombreCompleto": "Ruan Mei",
       "faccion": "Sociedad de Genios",
       "desc": "Miembro n.º 81 de la Sociedad de Genios, experta en ciencias de la vida y creación de vida. Amable pero enigmática, ve el mundo como un experimento fascinante.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Character_Ruan_Mei_Splash_Art.png"
+      "img": "../assets/hsr/Character_Ruan_Mei_Splash_Art-69f72ea7.webp"
     }
   },
   {
@@ -4998,7 +4998,7 @@ const CHARACTERS = [
       "nombreCompleto": "Argenti",
       "faccion": "Caballeros de la Belleza de Idrila",
       "desc": "Caballero solitario de la Belleza de Idrila que recorre el cosmos honrando a su Aeón con actos de belleza y valor. Cortés, teatral y de corazón noble.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/Character_Argenti_Splash_Art.png"
+      "img": "../assets/hsr/Character_Argenti_Splash_Art-ead0c6ab.webp"
     }
   },
   {
@@ -5114,7 +5114,7 @@ const CHARACTERS = [
       "nombreCompleto": "Topaz y Conti",
       "faccion": "IPC",
       "desc": "Cobradora de deudas del Departamento de Conservación de la IPC, acompañada de Conti, su adorable warp trotter mascota. Eficiente, ambiciosa y leal a la corporación.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/Character_Topaz_and_Numby_Splash_Art.png"
+      "img": "../assets/hsr/Character_Topaz_and_Numby_Splash_Art-35c6b652.webp"
     }
   },
   {
@@ -5230,7 +5230,7 @@ const CHARACTERS = [
       "nombreCompleto": "Aventurino (Kakavasha)",
       "faccion": "IPC",
       "desc": "Único superviviente del clan Avgin, ahora estratega del Departamento de Estrategias de la IPC. Jugador nato que apuesta con su propia vida ocultando un pasado trágico tras su sonrisa.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Character_Aventurine_Splash_Art.png"
+      "img": "../assets/hsr/Character_Aventurine_Splash_Art-e3b0fe4e.webp"
     }
   },
   {
@@ -5346,7 +5346,7 @@ const CHARACTERS = [
       "nombreCompleto": "Jade",
       "faccion": "IPC",
       "desc": "Una de los Diez Magnates de Piedra de la IPC, encargada de los préstamos y cobros. Elegante y despiadada en los negocios, comercia con las deudas (y las almas) de sus clientes.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Character_Jade_Splash_Art.png"
+      "img": "../assets/hsr/Character_Jade_Splash_Art-76ec65ba.webp"
     }
   },
   {
@@ -5462,7 +5462,7 @@ const CHARACTERS = [
       "nombreCompleto": "Black Swan",
       "faccion": "Jardín del Reminiscencia",
       "desc": "Memoriadora al servicio del Jardín del Reminiscencia y de la enigmática Familia. Lee el pasado y el destino de las personas a través de sus cartas y su percepción memoriada.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/Character_Black_Swan_Splash_Art.png"
+      "img": "../assets/hsr/Character_Black_Swan_Splash_Art-1fd8c5e6.webp"
     }
   },
   {
@@ -5578,7 +5578,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sparkle",
       "faccion": "Bufones Enmascarados",
       "desc": "Miembro de los Bufones Enmascarados de la Familia Fantasma y maestra del disfraz. Caótica, teatral y devota de Aha, disfruta sembrando el desorden como forma de arte.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Character_Sparkle_Splash_Art.png"
+      "img": "../assets/hsr/Character_Sparkle_Splash_Art-7e6154e9.webp"
     }
   },
   {
@@ -5694,7 +5694,7 @@ const CHARACTERS = [
       "nombreCompleto": "Acheron",
       "faccion": "Emanador errante",
       "desc": "Emanadora errante autoproclamada y espada de la Nihilidad. Espíritu Galáctico de origen incierto, viaja segando a los Emanadores mientras persigue el rastro de sus recuerdos perdidos.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Character_Acheron_Splash_Art.png"
+      "img": "../assets/hsr/Character_Acheron_Splash_Art-148bc459.webp"
     }
   },
   {
@@ -5810,7 +5810,7 @@ const CHARACTERS = [
       "nombreCompleto": "Misha",
       "faccion": "Penacony",
       "desc": "Botones del Hotel Reverie de Penacony que sueña con convertirse en detective. Tímido y trabajador, se ve arrastrado a los misterios que envuelven la Tierra de los Sueños.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/Character_Misha_Splash_Art.png"
+      "img": "../assets/hsr/Character_Misha_Splash_Art-cad5b02f.webp"
     }
   },
   {
@@ -5926,7 +5926,7 @@ const CHARACTERS = [
       "nombreCompleto": "Gallagher",
       "faccion": "Penacony",
       "desc": "Bartender del Bar Reverie y miembro de la Familia de Penacony. Unidad de Abundancia de tipo Fuego que sana al equipo aplicando el debuff Besotted a los enemigos y aporta daño de Ruptura, siendo uno de los mejores sanadores 4★ para equipos de Ruptura.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/Character_Gallagher_Splash_Art.png"
+      "img": "../assets/hsr/Character_Gallagher_Splash_Art-d51cabeb.webp"
     }
   },
   {
@@ -6042,7 +6042,7 @@ const CHARACTERS = [
       "nombreCompleto": "Robin",
       "faccion": "Penacony (La Familia)",
       "desc": "Célebre cantante de Penacony y hermana mayor de Sunday, miembro de la Familia. Unidad de Armonía de tipo Físico que amplifica masivamente el ATQ del equipo y añade daño adicional partywide durante su Ultimate Concierto, considerada una de las mejores amplificadoras del juego.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Character_Robin_Splash_Art.png"
+      "img": "../assets/hsr/Character_Robin_Splash_Art-4e8191bb.webp"
     }
   },
   {
@@ -6158,7 +6158,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sunday",
       "faccion": "Penacony (La Familia)",
       "desc": "Cabeza de la Oak Family y jefe del Departamento de Conservación del Orden de Penacony, hermano de Robin. Unidad de Armonía de tipo Imaginario que avanza la acción, restaura energía y otorga uno de los mayores buffs de Daño Crítico del juego, siendo el mejor apoyo para DPS de invocación e hipercargas.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Character_Sunday_Splash_Art.png"
+      "img": "../assets/hsr/Character_Sunday_Splash_Art-80d4ad21.webp"
     }
   },
   {
@@ -6275,7 +6275,7 @@ const CHARACTERS = [
       "nombreCompleto": "Boothill",
       "faccion": "Guardaestrellas",
       "desc": "Galaxy Ranger justiciero con acento vaquero que persigue al Sindicato de la Belleza Interastral. Unidad de Cacería de tipo Físico centrada en Ruptura mono-objetivo: rompe la Debilidad del enemigo con su duelo Standoff y castiga con enormes golpes de Daño de Ruptura que ignoran DEF.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Character_Boothill_Splash_Art.png"
+      "img": "../assets/hsr/Character_Boothill_Splash_Art-dde14400.webp"
     }
   },
   {
@@ -6391,7 +6391,7 @@ const CHARACTERS = [
       "nombreCompleto": "Rappa",
       "faccion": "Guardaestrellas",
       "desc": "Enigmática ninja de Wardance en peregrinación por el mar de estrellas. Unidad de Erudición de tipo Imaginario y principal exponente del arquetipo de Super Ruptura en área: durante su estado Sesshou Sakura sus ataques potenciados devastan a varios enemigos ignorando el peso de sus barras de Debilidad.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Character_Rappa_Splash_Art.png"
+      "img": "../assets/hsr/Character_Rappa_Splash_Art-8f9b9a76.webp"
     }
   },
   {
@@ -6507,7 +6507,7 @@ const CHARACTERS = [
       "nombreCompleto": "Aglaea",
       "faccion": "Amphoreus",
       "desc": "Chrysos Heir del Título de Romance y líder de la ciudad-estado de Okhema en Amphoreus. Unidad de Reminiscencia de tipo Rayo que invoca a su memosprite Garmentmaker para desatar potentes ataques críticos, siendo la primera DPS de invocación del camino de Reminiscencia.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Character_Aglaea_Splash_Art.png"
+      "img": "../assets/hsr/Character_Aglaea_Splash_Art-ac59af93.webp"
     }
   },
   {
@@ -6623,7 +6623,7 @@ const CHARACTERS = [
       "nombreCompleto": "Tribbie (Trianne, Trinnon, Tristan)",
       "faccion": "Amphoreus",
       "desc": "Trío de hermanas Chrysos Heir del Título de la Muerte que comparten un mismo cuerpo, oráculos de Amphoreus. Unidad de Armonía de tipo Cuántico que escala con PV: reduce la resistencia de los enemigos, amplifica el Daño Crítico del equipo y aporta un contundente daño de área como sub-DPS.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/Character_Tribbie_Splash_Art.png"
+      "img": "../assets/hsr/Character_Tribbie_Splash_Art-7fdb73ba.webp"
     }
   },
   {
@@ -6739,7 +6739,7 @@ const CHARACTERS = [
       "nombreCompleto": "Mydei",
       "faccion": "Amphoreus",
       "desc": "Príncipe guerrero de la tribu Kremnos y Chrysos Heir del Título de Estrategia en Amphoreus, conocido por resucitar una y otra vez. Unidad de Destrucción de tipo Imaginario que escala con PV: sacrifica su propia vida para desatar golpes críticos devastadores y renace al caer, siendo un DPS autosuficiente y resistente.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Character_Mydei_Splash_Art.png"
+      "img": "../assets/hsr/Character_Mydei_Splash_Art-f6ce0bb0.webp"
     }
   },
   {
@@ -6855,7 +6855,7 @@ const CHARACTERS = [
       "nombreCompleto": "Castorice",
       "faccion": "Amphoreus",
       "desc": "Chrysos Heir del Título de la Muerte en Amphoreus, una joven cuyo tacto es letal para los vivos. Unidad de Reminiscencia de tipo Cuántico que escala completamente con PV: gasta la vida del equipo para invocar a su colosal memosprite y desatar un daño de área masivo, con un ritmo de juego único basado en el PV en vez de la energía.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Character_Castorice_Splash_Art.png"
+      "img": "../assets/hsr/Character_Castorice_Splash_Art-6a19dd2b.webp"
     }
   },
   {
@@ -6971,7 +6971,7 @@ const CHARACTERS = [
       "nombreCompleto": "Anaxa (Anaxagoras)",
       "faccion": "Amphoreus",
       "desc": "Erudito y Chrysos Heir del Título de la Razón en Amphoreus, un genio de mente fría apodado el Doctor. Unidad de Erudición de tipo Viento que implanta Debilidades de todos los elementos en los enemigos para romperlos y encadenar Habilidades potenciadas gratis, funcionando como un hipercarry de área de altísimo techo de daño.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/Character_Anaxa_Splash_Art.png"
+      "img": "../assets/hsr/Character_Anaxa_Splash_Art-6a5b0421.webp"
     }
   },
   {
@@ -7065,7 +7065,7 @@ const CHARACTERS = [
       "nombreCompleto": "Hyacine",
       "faccion": "Amphoreus",
       "desc": "Heredera de Crisos de Anfóreo que porta la Coreflama de la Vida junto a su memosprite Little Ica. Sanadora del camino del Reminiscencia (Viento) que escala con PV y Velocidad.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Character_Hyacine_Splash_Art.png"
+      "img": "../assets/hsr/Character_Hyacine_Splash_Art-cbf2187b.webp"
     }
   },
   {
@@ -7159,7 +7159,7 @@ const CHARACTERS = [
       "nombreCompleto": "Cipher",
       "faccion": "Cazadores de Estelarones",
       "desc": "Ladrona de guante blanco de los Cazadores de Estelarones. Personaje Cuántico del camino de la Nihilidad que implanta sus propios debuffs y actúa como Sub-DPS veloz.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/Character_Cipher_Splash_Art.png"
+      "img": "../assets/hsr/Character_Cipher_Splash_Art-c9538565.webp"
     }
   },
   {
@@ -7253,7 +7253,7 @@ const CHARACTERS = [
       "nombreCompleto": "Phainon",
       "faccion": "Amphoreus",
       "desc": "Heredero de Crisos de Anfóreo, el 'Libertador' que porta la llama del Ocaso. DPS Físico del camino de la Destrucción con un devastador Estado Potenciado (Khaslana).",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Character_Phainon_Splash_Art.png"
+      "img": "../assets/hsr/Character_Phainon_Splash_Art-502186a2.webp"
     }
   },
   {
@@ -7347,7 +7347,7 @@ const CHARACTERS = [
       "nombreCompleto": "Hysilens",
       "faccion": "Amphoreus",
       "desc": "Personaje Físico del camino de la Nihilidad ligada a Anfóreo. DPS de daño por efectos periódicos (DoT) que amplifica las cadenas de daño de equipos como el de Kafka.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Character_Hysilens_Splash_Art.png"
+      "img": "../assets/hsr/Character_Hysilens_Splash_Art-50b146b5.webp"
     }
   },
   {
@@ -7441,7 +7441,7 @@ const CHARACTERS = [
       "nombreCompleto": "Cerydra",
       "faccion": "Amphoreus",
       "desc": "Personaje Viento del camino de la Armonía de Anfóreo. Apoyo que escala con ATQ, otorga Daño Crítico y permite a un aliado repetir su Habilidad.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Character_Cerydra_Splash_Art.png"
+      "img": "../assets/hsr/Character_Cerydra_Splash_Art-adb0a38e.webp"
     }
   },
   {
@@ -7535,7 +7535,7 @@ const CHARACTERS = [
       "nombreCompleto": "March 7th (Evernight)",
       "faccion": "Amphoreus",
       "desc": "Forma 'Evernight' de March 7th en Anfóreo. Personaje de Hielo del camino del Reminiscencia que escala con PV; DPS con memosprite (Evey) capaz de apoyar al equipo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/Character_Evernight_Splash_Art.png"
+      "img": "../assets/hsr/Character_Evernight_Splash_Art-adf17585.webp"
     }
   },
   {
@@ -7629,7 +7629,7 @@ const CHARACTERS = [
       "nombreCompleto": "Cyrene",
       "faccion": "Amphoreus",
       "desc": "Personaje de Hielo del camino del Reminiscencia de Anfóreo. Apoyo que escala con Velocidad y otorga daño y penetración de RES de Hielo a todo el equipo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/Character_Cyrene_Splash_Art.png"
+      "img": "../assets/hsr/Character_Cyrene_Splash_Art-504e3c65.webp"
     }
   },
   {
@@ -7735,7 +7735,7 @@ const CHARACTERS = [
       "nombreCompleto": "Saber (Artoria Pendragon)",
       "faccion": "Colaboración Fate/stay night [UBW]",
       "desc": "La Reina de los Caballeros, Artoria Pendragon, Servant de la clase Saber llegada con la colaboración de Fate/stay night [Unlimited Blade Works]. DPS de Viento del camino de la Destrucción cuyo plan de juego gira en torno a cargar y repetir su devastadora Definitiva.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/Character_Saber_Splash_Art.png"
+      "img": "../assets/hsr/Character_Saber_Splash_Art-34dc77db.webp"
     }
   },
   {
@@ -7841,7 +7841,7 @@ const CHARACTERS = [
       "nombreCompleto": "Archer (EMIYA)",
       "faccion": "Colaboración Fate/stay night [UBW]",
       "desc": "El Servant de la clase Archer de Fate/stay night [Unlimited Blade Works]. DPS Cuántico del camino de Cacería que convierte los puntos de habilidad del equipo en ráfagas de espadas proyectadas, culminando en su Definitiva Unlimited Blade Works.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Character_Archer_Splash_Art.png"
+      "img": "../assets/hsr/Character_Archer_Splash_Art-2a82d1e1.webp"
     }
   },
   {
@@ -7947,7 +7947,7 @@ const CHARACTERS = [
       "nombreCompleto": "La Dalia (The Dahlia)",
       "faccion": "Banda de la Aniquilación",
       "desc": "Constance, 'La Dalia', figura de la Banda de la Aniquilación ligada a los Cremadores y a la Mansión de la Llama Eterna. Personaje de Fuego del camino de la Nihilidad que habilita la Super Ruptura de todo el equipo sin necesidad de romper al enemigo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Character_The_Dahlia_Splash_Art.png"
+      "img": "../assets/hsr/Character_The_Dahlia_Splash_Art-0a77f6b8.webp"
     }
   },
   {
@@ -8053,7 +8053,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yao Guang",
       "faccion": "Xianzhou Yuque",
       "desc": "Generala árbitro de los Caballeros de las Nubes del Xianzhou Yuque, una de los Seis Aurigas. Apoyo Físico del nuevo camino de la Exultación que potencia la Exultación del equipo y genera turnos extra con su Definitiva.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Character_Yao_Guang_Splash_Art.png"
+      "img": "../assets/hsr/Character_Yao_Guang_Splash_Art-de546c64.webp"
     }
   },
   {
@@ -8153,7 +8153,7 @@ const CHARACTERS = [
       "nombreCompleto": "Chispa (Sparxie)",
       "faccion": "Bufones Enmascarados",
       "desc": "Bufona Enmascarada llegada desde Planarcadia con la v4.0. DPS de Fuego del camino de la Exultación que convierte los puntos de habilidad en Remates cómicos, repartiendo daño de Exultación y Daño Crítico a sus aliados exultantes.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Character_Sparxie_Splash_Art.png"
+      "img": "../assets/hsr/Character_Sparxie_Splash_Art-c6f701a4.webp"
     }
   },
   {
@@ -8247,7 +8247,7 @@ const CHARACTERS = [
       "nombreCompleto": "Ashveil",
       "faccion": "Guardaestrellas",
       "desc": "El 'Detective Inmortal' de Planarcadia (v4.1): cazador de Rayo centrado en ataques de seguimiento que reduce DEF y aumenta el Daño Crítico del equipo; pareja ideal de Feixiao y excelente DPS principal con debuffers.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/Character_Ashveil_Portrait.png"
+      "img": "../assets/hsr/Character_Ashveil_Portrait-280c9e90.webp"
     }
   },
   {
@@ -8347,7 +8347,7 @@ const CHARACTERS = [
       "nombreCompleto": "Trazacaminos (Exultación)",
       "faccion": "Expreso Astral",
       "desc": "El Trazacaminos por la senda de la Exultación, de elemento Rayo: soporte que otorga Daño Crítico y Habilidades de Exultación extra a sus aliados, pieza central de los equipos de Exultación de la v4.x.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Character_Trailblazer_%28F%29_Elation_Portrait.png"
+      "img": "../assets/hsr/Character_Trailblazer__F__Elation_Portrait-53ec823e.webp"
     }
   },
   {
@@ -8436,7 +8436,7 @@ const CHARACTERS = [
       "nombreCompleto": "Silver Wolf Niv. 999 (Silver Wolf LV.999)",
       "faccion": "Cazadores de Estelarones",
       "desc": "La 'Jugadora en modo Dios', Emanadora de la Exultación (v4.2): versión definitiva de Silver Wolf, DPS Imaginario de Exultación que domina el meta gracias a su velocidad extrema y sus turnos extra.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Character_Silver_Wolf_LV.999_Portrait.png"
+      "img": "../assets/hsr/Character_Silver_Wolf_LV.999_Portrait-05e54e71.webp"
     }
   },
   {
@@ -8524,7 +8524,7 @@ const CHARACTERS = [
       "nombreCompleto": "Evanescia",
       "faccion": "Planarcadia",
       "desc": "La 'Hoja regente de las flores dispersas' de los Juegos Fabuluna (v4.2): DPS Física de Exultación y Emanadora que convierte la risa del público en Daño de Exultación masivo.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Character_Evanescia_Portrait.png"
+      "img": "../assets/hsr/Character_Evanescia_Portrait-45afb28c.webp"
     }
   },
   {
@@ -8624,7 +8624,7 @@ const CHARACTERS = [
       "nombreCompleto": "Mortenax Blade",
       "faccion": "Cazadores de Estelarones",
       "desc": "La 'Esencia templada' (v4.3): nueva encarnación de Blade como Nihilidad de Fuego que escala con PV; sub-DPS y debuffer de ataques de seguimiento, socio ideal de Acheron, Ashveil y Castorice.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Character_Mortenax_Blade_Portrait.png"
+      "img": "../assets/hsr/Character_Mortenax_Blade_Portrait-4a5e265e.webp"
     }
   },
   {
@@ -8729,7 +8729,7 @@ const CHARACTERS = [
       "nombreCompleto": "Himeko Nova",
       "faccion": "Expreso Astral",
       "desc": "La 'Navegante cazaestrellas' del Expreso Astral (v4.4): nueva forma de Himeko como Erudición de Fuego, DPS T0 en AoE y muy buena en objetivo único; estrena la mecánica de Habilidad de asistencia y el Definitivo con el cañón Starblazer.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/Character_Himeko_%E2%80%A2_Nova_Portrait.png"
+      "img": "../assets/hsr/Character_Himeko___Nova_Portrait-eaa11732.webp"
     }
   },
   {
@@ -8829,7 +8829,7 @@ const CHARACTERS = [
       "nombreCompleto": "Rin Tohsaka",
       "faccion": "Colaboración Fate/stay night [UBW]",
       "desc": "La 'Promedio única' (v4.4): maga de la familia Tohsaka, Erudición Cuántica que llega con el rerun de Archer y es su compañera definitiva; buffs de crítico por puntos de habilidad, seguimiento conjunto y daño propio sorprendentemente bueno.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/Character_Rin_Tohsaka_Portrait.png"
+      "img": "../assets/hsr/Character_Rin_Tohsaka_Portrait-ebd7cb6d.webp"
     }
   },
   {
@@ -8929,7 +8929,7 @@ const CHARACTERS = [
       "nombreCompleto": "Gilgamesh",
       "faccion": "Colaboración Fate/stay night [UBW]",
       "desc": "El 'Rey de los Héroes' (v4.4): Destrucción de Rayo gratuito de la colaboración Fate/stay night [UBW]; escala con las acciones y Definitivos de sus aliados, y forma con Saber un seguimiento conjunto de 1000% de multiplicador.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/Character_Gilgamesh_Portrait.png"
+      "img": "../assets/hsr/Character_Gilgamesh_Portrait-09c86468.webp"
     }
   },
   {
@@ -9029,7 +9029,7 @@ const CHARACTERS = [
       "nombreCompleto": "Robin Estival",
       "faccion": "Penacony (La Familia)",
       "desc": "'Nueva melodía de olas brillantes' (v4.5): versión veraniega de Robin como Reminiscencia de Viento; soporte universal de buffs de ATQ/Daño Crítico, DEF ignorada, avance de acción y energía, con daño propio decente vía memosprite.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Character_Robin_%E2%80%A2_Summeretto_Portrait.png"
+      "img": "../assets/hsr/Character_Robin___Summeretto_Portrait-50306ea3.webp"
     }
   },
   {
@@ -9128,7 +9128,7 @@ const CHARACTERS = [
       "nombreCompleto": "Aventurino Oleaje",
       "faccion": "IPC",
       "desc": "'Regocijo entre mareas bravas' (v4.5): versión veraniega de Aventurino como DPS Cuántico de Exultación; funciona en solitario como atacante de seguimiento o como núcleo de equipos de Exultación, y escala con la Velocidad.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Character_Aventurine_%E2%80%A2_Waveflair_Portrait.png"
+      "img": "../assets/hsr/Character_Aventurine___Waveflair_Portrait-df2bd495.webp"
     }
   },
   {
@@ -9206,7 +9206,7 @@ const CHARACTERS = [
       "nombreCompleto": "Perla",
       "faccion": "IPC",
       "desc": "La 'Perla de la tasación' (v4.6): Intellitron especialista en inversión artística del Departamento de Inversión Estratégica de la IPC y CEO de Planarcadia; próxima 5★ de Hielo de la Vía de la Exultación. Kit y build por confirmar.",
-      "img": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Character_Pearl_Splash_Art.png"
+      "img": "../assets/hsr/Character_Pearl_Splash_Art-6533e482.webp"
     }
   }
 ];

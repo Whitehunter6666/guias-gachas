@@ -91,7 +91,7 @@ const CHARACTERS = [
       "nombreCompleto": "Viajero — Anemo (Aether / Lumine)",
       "faccion": "Protagonista",
       "desc": "Primera resonancia elemental del Viajero, obtenida al tocar la Estatua de los Siete de Mondstadt en la versión 1.0. Usa ráfagas de viento y un tornado que arrastra enemigos y absorbe otros elementos. Es la variante clásica de utilidad y exploración.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Aether_Icon.png"
+      "img": "../assets/genshin/Aether_Icon-b1d042f3.webp"
     }
   },
   {
@@ -181,7 +181,7 @@ const CHARACTERS = [
       "nombreCompleto": "Viajero — Geo (Aether / Lumine)",
       "faccion": "Protagonista",
       "desc": "Resonancia obtenida en las Estatuas de los Siete de Liyue (versión 1.0). Lanza meteoritos y erige muros de piedra que explotan, con constelaciones que añaden Prob. CRÍT. Es la variante más orientada a daño directo de las primeras regiones.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Aether_Icon.png"
+      "img": "../assets/genshin/Aether_Icon-b1d042f3.webp"
     }
   },
   {
@@ -271,7 +271,7 @@ const CHARACTERS = [
       "nombreCompleto": "Viajero — Electro (Aether / Lumine)",
       "faccion": "Protagonista",
       "desc": "Resonancia obtenida en Inazuma (versión 2.0). Su kit gira en torno a la generación de energía: amuletos que restauran energía elemental y reducen el tiempo de espera. Considerada la variante de soporte más especializada y de menor daño personal.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Aether_Icon.png"
+      "img": "../assets/genshin/Aether_Icon-b1d042f3.webp"
     }
   },
   {
@@ -361,7 +361,7 @@ const CHARACTERS = [
       "nombreCompleto": "Viajero — Dendro (Aether / Lumine)",
       "faccion": "Protagonista",
       "desc": "Resonancia obtenida en Sumeru (versión 3.0), lanzada junto al elemento Dendro en el juego. Su Lámpara de las Hojas Verdes aplica Dendro en área durante todo su Definitivo. Fue durante mucho tiempo el único aplicador Dendro fuera de turno gratuito.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Aether_Icon.png"
+      "img": "../assets/genshin/Aether_Icon-b1d042f3.webp"
     }
   },
   {
@@ -452,7 +452,7 @@ const CHARACTERS = [
       "nombreCompleto": "Viajero — Hydro (Aether / Lumine)",
       "faccion": "Protagonista",
       "desc": "Resonancia obtenida en Fontaine (versión 4.0). Dispara gotas de rocío con su Espada de la Cresta Acuática y crea un torrente móvil con su Definitivo. Su daño escala con ATQ y recibe bonificaciones según sus PV máximos.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Aether_Icon.png"
+      "img": "../assets/genshin/Aether_Icon-b1d042f3.webp"
     }
   },
   {
@@ -542,7 +542,7 @@ const CHARACTERS = [
       "nombreCompleto": "Viajero — Pyro (Aether / Lumine)",
       "faccion": "Protagonista",
       "desc": "Resonancia obtenida en Natlan durante el Capítulo V, Acto V (versión 5.3): las líneas ley corruptas retrasaron su desbloqueo respecto a la llegada a la región. Usa la Bendición de Alma Nocturna con ataques de llamas en habilidad y Definitivo. Última variante elemental del Viajero hasta la 6.7, ya que Nod-Krai no otorgó elemento nuevo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Aether_Icon.png"
+      "img": "../assets/genshin/Aether_Icon-b1d042f3.webp"
     }
   },
   {
@@ -639,7 +639,7 @@ const CHARACTERS = [
       "nombreCompleto": "Viajero — Cryo (Aether / Lumine)",
       "faccion": "Protagonista",
       "desc": "Resonancia obtenida en Snezhnaya con la Estatua de los Siete (versión 7.0, Capítulo VII). Con el Viajero Cryo en el equipo se pueden activar todas las reacciones de Fulgor Estelar. Su Habilidad 'Perforador de Niebla Helada' invoca la Estrella Perforahielo y su Estallido 'Jabalina Congelada' lanza jabalinas de hielo cuyo daño crece con las cargas de Resplandor Glacial (nombres ES de talentos por confirmar). Séptima y última variante elemental del Viajero.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Aether_Icon.png"
+      "img": "../assets/genshin/Aether_Icon-b1d042f3.webp"
     }
   },
   {
@@ -725,7 +725,7 @@ const CHARACTERS = [
       "nombreCompleto": "Amber, la Guardián Voladora",
       "faccion": "Mondstadt",
       "desc": "Explonauta de los Caballeros de Favonio, siempre optimista y dedicada. En combate ofrece disparos Pyro cargados y un señuelo que atrae la atención enemiga.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Amber_Wish.png"
+      "img": "../assets/genshin/Amber_Wish-68456ca3.webp"
     },
     "nombre": "Amber",
     "rareza": "4",
@@ -816,7 +816,7 @@ const CHARACTERS = [
       "nombreCompleto": "Barbara, el Ídolo Brillante",
       "faccion": "Mondstadt",
       "desc": "Diácono de la Iglesia de Favonio e ídolo de Mondstadt. Ofrece la curación por golpe más generosa del juego y aplicación constante de Hydro.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Barbara_Wish.png"
+      "img": "../assets/genshin/Barbara_Wish-cf143ab6.webp"
     },
     "nombre": "Barbara",
     "rareza": "4",
@@ -908,7 +908,7 @@ const CHARACTERS = [
       "nombreCompleto": "Beidou, la Capitana de las Mareas Carmesí",
       "faccion": "Liyue",
       "desc": "Líder de la Flota Alcotán, temeraria y carismática. En combate destaca con un contraataque que reduce daño y un Estallido Electro que golpea con rayos en cadena.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Beidou_Wish.png"
+      "img": "../assets/genshin/Beidou_Wish-0a91cb49.webp"
     },
     "nombre": "Beidou",
     "rareza": "4",
@@ -1000,7 +1000,7 @@ const CHARACTERS = [
       "nombreCompleto": "Bennett, la Mala Suerte Adventurera",
       "faccion": "Mondstadt",
       "desc": "Aventurero de buen corazón perseguido por la mala fortuna. Es un apoyo Pyro insustituible: su campo cura al equipo y le concede un potente aumento de ATQ.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Bennett_Wish.png"
+      "img": "../assets/genshin/Bennett_Wish-aa8d8ff4.webp"
     },
     "nombre": "Bennett",
     "rareza": "4",
@@ -1092,7 +1092,7 @@ const CHARACTERS = [
       "nombreCompleto": "Chongyun, el Frío que Espanta Espíritus",
       "faccion": "Liyue",
       "desc": "Joven exorcista de constitución excepcionalmente yang que usa el Cryo para calmar su energía. Su campo infunde Cryo a los ataques cuerpo a cuerpo del equipo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Chongyun_Wish.png"
+      "img": "../assets/genshin/Chongyun_Wish-4c7ef545.webp"
     },
     "nombre": "Chongyun",
     "rareza": "4",
@@ -1184,7 +1184,7 @@ const CHARACTERS = [
       "nombreCompleto": "Diluc, el Aristócrata Sombrío",
       "faccion": "Mondstadt",
       "desc": "Dueño de la Hacienda Vinícola Dawn y justiciero nocturno de Mondstadt. DPS Pyro cuerpo a cuerpo clásico, con combos de mandoble y estallido de fuego devastadores.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Diluc_Wish.png"
+      "img": "../assets/genshin/Diluc_Wish-22315868.webp"
     },
     "nombre": "Diluc",
     "rareza": "5",
@@ -1276,7 +1276,7 @@ const CHARACTERS = [
       "nombreCompleto": "Fischl, Prinzessin der Verurteilung",
       "faccion": "Mondstadt",
       "desc": "Investigadora del Gremio de Aventureros con una peculiar personalidad de princesa oscura. Invoca a su cuervo Oz, que hace daño Electro continuo mientras controlas a otro personaje.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Fischl_Wish.png"
+      "img": "../assets/genshin/Fischl_Wish-b58249a1.webp"
     },
     "nombre": "Fischl",
     "rareza": "4",
@@ -1368,7 +1368,7 @@ const CHARACTERS = [
       "nombreCompleto": "Jean, Dandelion Knight",
       "faccion": "Mondstadt",
       "desc": "Maestra interina de los Caballeros de Favonio, responsable y dedicada. Combina control Anemo, agrupación de enemigos y una potente curación en área.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Jean_Wish.png"
+      "img": "../assets/genshin/Jean_Wish-b322b916.webp"
     },
     "nombre": "Jean",
     "rareza": "5",
@@ -1460,7 +1460,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kaeya, el Diplomático Glacial",
       "faccion": "Mondstadt",
       "desc": "Caballero de Caballería de Favonio y hermano adoptivo de Diluc, astuto y encantador. Aplica Cryo de forma fiable, ideal para reacciones de Congelación y Fundir.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Kaeya_Wish.png"
+      "img": "../assets/genshin/Kaeya_Wish-67dedfe5.webp"
     },
     "nombre": "Kaeya",
     "rareza": "4",
@@ -1552,7 +1552,7 @@ const CHARACTERS = [
       "nombreCompleto": "Keqing, la Portento del Cuño Celestial",
       "faccion": "Liyue",
       "desc": "Alcaldesa de los Qixing, trabajadora incansable y escéptica de los dioses. DPS Electro ágil que se teletransporta por el campo y castiga con ráfagas de espada eléctricas.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Keqing_Wish.png"
+      "img": "../assets/genshin/Keqing_Wish-cd739e3a.webp"
     },
     "nombre": "Keqing",
     "rareza": "5",
@@ -1644,7 +1644,7 @@ const CHARACTERS = [
       "nombreCompleto": "Klee, la Chispa Ardiente del Caballero",
       "faccion": "Mondstadt",
       "desc": "Joven caballero de Favonio experta en explosivos, traviesa e imparable. DPS Pyro que bombardea a distancia con bombas saltarinas y su Estallido de fuegos artificiales.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Klee_Wish.png"
+      "img": "../assets/genshin/Klee_Wish-200360e2.webp"
     },
     "nombre": "Klee",
     "rareza": "5",
@@ -1737,7 +1737,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lisa, la Bruja de la Rosa Púrpura",
       "faccion": "Mondstadt",
       "desc": "Bibliotecaria de los Caballeros de Favonio y una de las mejores hechiceras de Mondstadt, tan talentosa como perezosa. Aplica Electro y reduce la defensa enemiga con sus descargas.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Lisa_Wish.png"
+      "img": "../assets/genshin/Lisa_Wish-fa7dd43d.webp"
     },
     "nombre": "Lisa",
     "rareza": "4",
@@ -1830,7 +1830,7 @@ const CHARACTERS = [
       "nombreCompleto": "Mona Megistus",
       "faccion": "Mondstadt",
       "desc": "Astróloga errante de gran talento y bolsillos vacíos. Domina la hidromancia y lee el destino en las estrellas, aunque odia que la llamen adivina.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Mona_Card.png"
+      "img": "../assets/genshin/Mona_Card-f71a265f.webp"
     },
     "nombre": "Mona",
     "rareza": "5",
@@ -1922,7 +1922,7 @@ const CHARACTERS = [
       "nombreCompleto": "Ningguang",
       "faccion": "Liyue",
       "desc": "Tianquan de los Qixing de Liyue y la mujer más rica de la nación. Astuta y calculadora, convierte cada trato en oro y su torre flotante Jade Perdido es símbolo de su poder.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Ningguang_Card.png"
+      "img": "../assets/genshin/Ningguang_Card-de4cff4b.webp"
     },
     "nombre": "Ningguang",
     "rareza": "4",
@@ -2014,7 +2014,7 @@ const CHARACTERS = [
       "nombreCompleto": "Noelle",
       "faccion": "Mondstadt",
       "desc": "Sirvienta incansable de los Caballeros de Favonius que sueña con unirse a la orden. Amable y trabajadora, protege y cuida a todos a su alrededor con su enorme mandoble.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Noelle_Card.png"
+      "img": "../assets/genshin/Noelle_Card-587b0e20.webp"
     },
     "nombre": "Noelle",
     "rareza": "4",
@@ -2106,7 +2106,7 @@ const CHARACTERS = [
       "nombreCompleto": "Qiqi",
       "faccion": "Liyue",
       "desc": "Aprendiza zombi de la Farmacia Bubu con una memoria terrible que anota todo en su cuaderno. Falleció hace tiempo pero fue revivida por adepti, y ahora recolecta hierbas medicinales.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Qiqi_Card.png"
+      "img": "../assets/genshin/Qiqi_Card-94e50a7a.webp"
     },
     "nombre": "Qiqi",
     "rareza": "5",
@@ -2198,7 +2198,7 @@ const CHARACTERS = [
       "nombreCompleto": "Razor",
       "faccion": "Mondstadt",
       "desc": "Muchacho criado por lobos en el Bosque de los Lobos. De pocas palabras y gran corazón, considera a su manada su verdadera familia y lucha con instinto salvaje.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Razor_Card.png"
+      "img": "../assets/genshin/Razor_Card-ae082216.webp"
     },
     "nombre": "Razor",
     "rareza": "4",
@@ -2290,7 +2290,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sucrose",
       "faccion": "Mondstadt",
       "desc": "Alquimista tímida y aplicada, asistente de Albedo. Obsesionada con la bioalquimia, experimenta sin descanso para hacer realidad un mundo más armonioso… a veces con resultados explosivos.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Sucrose_Card.png"
+      "img": "../assets/genshin/Sucrose_Card-36291dec.webp"
     },
     "nombre": "Sucrose",
     "rareza": "4",
@@ -2382,7 +2382,7 @@ const CHARACTERS = [
       "nombreCompleto": "Venti",
       "faccion": "Mondstadt",
       "desc": "El Arconte Anemo Barbatos disfrazado de bardo bohemio. Amante de la libertad, el vino y la música, vela por Mondstadt desde las sombras con su lira y el poder del viento.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Venti_Card.png"
+      "img": "../assets/genshin/Venti_Card-cfc09b38.webp"
     },
     "nombre": "Venti",
     "rareza": "5",
@@ -2475,7 +2475,7 @@ const CHARACTERS = [
       "nombreCompleto": "Xiangling",
       "faccion": "Liyue",
       "desc": "Chef estrella del Restaurante Wanmin y aventurera intrépida en busca de nuevos ingredientes. Su oso panda Guoba escupe fuego y su pasión por la cocina no conoce límites.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png"
+      "img": "../assets/genshin/Xiangling_Card-396732f2.webp"
     },
     "nombre": "Xiangling",
     "rareza": "4",
@@ -2567,7 +2567,7 @@ const CHARACTERS = [
       "nombreCompleto": "Xingqiu",
       "faccion": "Liyue",
       "desc": "Segundo hijo del Gremio Comercial Feiyun, culto y amante de las novelas de caballería. Bajo su fachada refinada esconde un espíritu justiciero y un manejo excepcional de la espada.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Xingqiu_Card.png"
+      "img": "../assets/genshin/Xingqiu_Card-e54bc047.webp"
     },
     "nombre": "Xingqiu",
     "rareza": "4",
@@ -2659,7 +2659,7 @@ const CHARACTERS = [
       "nombreCompleto": "Diona",
       "faccion": "Mondstadt",
       "desc": "Bartender estrella de la taberna El Gato del Rabo pese a odiar el alcohol. Con sangre felina y un objetivo secreto de arruinar todas las bebidas, termina creando cócteles legendarios sin querer.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Diona_Card.png"
+      "img": "../assets/genshin/Diona_Card-6257f021.webp"
     },
     "nombre": "Diona",
     "rareza": "4",
@@ -2751,7 +2751,7 @@ const CHARACTERS = [
       "nombreCompleto": "Tartaglia (Childe)",
       "faccion": "Snezhnaya",
       "desc": "Undécimo de los Once Heraldos Fatui, conocido como Childe. Guerrero nato y adicto a la batalla, alterna entre arco a distancia y dagas de agua en combate cuerpo a cuerpo. Fuera del campo es un hermano mayor devoto.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Tartaglia_Card.png"
+      "img": "../assets/genshin/Tartaglia_Card-b590acdc.webp"
     },
     "nombre": "Tartaglia",
     "rareza": "5",
@@ -2843,7 +2843,7 @@ const CHARACTERS = [
       "nombreCompleto": "Xinyan",
       "faccion": "Liyue",
       "desc": "La única rockera de Liyue, que desafía las tradiciones con su música rebelde. De carácter fuerte y corazón noble, toca para quienes se sienten fuera de lugar y no teme al qué dirán.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Xinyan_Card.png"
+      "img": "../assets/genshin/Xinyan_Card-2f7e8907.webp"
     },
     "nombre": "Xinyan",
     "rareza": "4",
@@ -2935,7 +2935,7 @@ const CHARACTERS = [
       "nombreCompleto": "Zhongli",
       "faccion": "Liyue",
       "desc": "Consultor del Salón Funerario Wangsheng y, en secreto, el Arconte Geo Morax (Rex Lapis). Sabio milenario de porte sereno que forjó los contratos y las montañas de Liyue, aunque siempre olvida llevar dinero encima.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Zhongli_Card.png"
+      "img": "../assets/genshin/Zhongli_Card-50f239c0.webp"
     },
     "nombre": "Zhongli",
     "rareza": "5",
@@ -3027,7 +3027,7 @@ const CHARACTERS = [
       "nombreCompleto": "Albedo",
       "faccion": "Mondstadt (Caballeros de Favonius)",
       "desc": "Alquimista jefe de los Caballeros de Favonius, apodado el 'Kreideprinz'. Investiga los secretos de la vida en las montañas nevadas de Dragonspine. Ataca desde su Flor Solar Transitoria escalando con Defensa.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Albedo_Wish.png"
+      "img": "../assets/genshin/Albedo_Wish-482b0fe6.webp"
     },
     "nombre": "Albedo",
     "rareza": "5",
@@ -3119,7 +3119,7 @@ const CHARACTERS = [
       "nombreCompleto": "Ganyu",
       "faccion": "Liyue (Pabellón Yuehai)",
       "desc": "Secretaria del Pabellón Yuehai y descendiente medio Qilin de los adeptos de Liyue. Reservada y trabajadora, desata devastadores Disparos Cargados de hielo. Escala con ATQ, Prob. CRIT y Daño CRIT.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Ganyu_Wish.png"
+      "img": "../assets/genshin/Ganyu_Wish-619bbd92.webp"
     },
     "nombre": "Ganyu",
     "rareza": "5",
@@ -3211,7 +3211,7 @@ const CHARACTERS = [
       "nombreCompleto": "Hu Tao",
       "faccion": "Liyue (Funeraria Wangsheng)",
       "desc": "Septuagésima séptima directora de la Funeraria Wangsheng, tan traviesa como solemne ante la muerte. Sacrifica vida para desatar un enorme Daño Pyro que escala con sus PV máximos.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Hu_Tao_Wish.png"
+      "img": "../assets/genshin/Hu_Tao_Wish-8ae509a4.webp"
     },
     "nombre": "Hu Tao",
     "rareza": "5",
@@ -3303,7 +3303,7 @@ const CHARACTERS = [
       "nombreCompleto": "Xiao",
       "faccion": "Liyue (Yaksha adepto)",
       "desc": "El Yaksha Vigilante, adepto guerrero que protege Liyue de los males kármicos. Solitario y atormentado, arrasa desde el aire con demoledores ataques en picado de energía Anemo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Xiao_Wish.png"
+      "img": "../assets/genshin/Xiao_Wish-299e8a2d.webp"
     },
     "nombre": "Xiao",
     "rareza": "5",
@@ -3395,7 +3395,7 @@ const CHARACTERS = [
       "nombreCompleto": "Rosaria",
       "faccion": "Mondstadt (Iglesia de Favonius)",
       "desc": "Monja de la Iglesia de Favonius de aspecto indiferente y actitud nocturna. Patrulla las calles a su manera repartiendo justicia con su lanza Cryo y ataques por la espalda.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Rosaria_Wish.png"
+      "img": "../assets/genshin/Rosaria_Wish-c42d5325.webp"
     },
     "nombre": "Rosaria",
     "rareza": "4",
@@ -3487,7 +3487,7 @@ const CHARACTERS = [
       "nombreCompleto": "Eula Lawrence",
       "faccion": "Mondstadt (Compañía de Reconocimiento)",
       "desc": "Capitana de la Compañía de Reconocimiento de los Caballeros de Favonius y descendiente del proscrito Clan Lawrence. Fría en apariencia, ejecuta una venganza contundente con su mandoble de daño Físico.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Eula_Wish.png"
+      "img": "../assets/genshin/Eula_Wish-8d59f6b1.webp"
     },
     "nombre": "Eula",
     "rareza": "5",
@@ -3579,7 +3579,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yanfei",
       "faccion": "Liyue (Asesora legal)",
       "desc": "Asesora legal de Liyue, mitad humana mitad iluminada, con un dominio absoluto de los contratos y las leyes. Combate con un catalizador Pyro y potentes Ataques Cargados basados en Sellos.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Yanfei_Wish.png"
+      "img": "../assets/genshin/Yanfei_Wish-9583aba3.webp"
     },
     "nombre": "Yanfei",
     "rareza": "4",
@@ -3671,7 +3671,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kaedehara Kazuha",
       "faccion": "Inazuma (Espadachín errante, flota de la Crux)",
       "desc": "Samurái errante de espíritu libre y sensibilidad poética, antiguo miembro del clan Kaedehara. Domina el viento con elegancia, agrupando enemigos y amplificando el daño elemental de sus aliados.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Kaedehara_Kazuha_Wish.png"
+      "img": "../assets/genshin/Kaedehara_Kazuha_Wish-4a721e88.webp"
     },
     "nombre": "Kaedehara Kazuha",
     "rareza": "5",
@@ -3763,7 +3763,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kamisato Ayaka",
       "faccion": "Inazuma (Clan Kamisato, Comisión Yashiro)",
       "desc": "Señorita del clan Kamisato y orgullo de la Comisión Yashiro, elegante y disciplinada. Baila con su espada Cryo desatando cortes helados y un poderoso Estallido de nevada.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Kamisato_Ayaka_Wish.png"
+      "img": "../assets/genshin/Kamisato_Ayaka_Wish-1517fc4a.webp"
     },
     "nombre": "Kamisato Ayaka",
     "rareza": "5",
@@ -3855,7 +3855,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sayu",
       "faccion": "Inazuma (Shuumatsuban, Comisión Yashiro)",
       "desc": "Ninja de la organización Shuumatsuban que solo quiere dormir y crecer. Perezosa pero eficaz, rueda por el campo con su mandoble Anemo difundiendo elementos y curando al equipo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Sayu_Wish.png"
+      "img": "../assets/genshin/Sayu_Wish-ffb24614.webp"
     },
     "nombre": "Sayu",
     "rareza": "4",
@@ -3947,7 +3947,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yoimiya",
       "faccion": "Inazuma (Fuegos Artificiales Naganohara)",
       "desc": "Dueña del taller de Fuegos Artificiales Naganohara y 'Reina del Verano' de Inazuma. Alegre y querida por todos, convierte sus flechas en un espectáculo pirotécnico de daño Pyro sostenido.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Yoimiya_Wish.png"
+      "img": "../assets/genshin/Yoimiya_Wish-04013848.webp"
     },
     "nombre": "Yoimiya",
     "rareza": "5",
@@ -4039,7 +4039,7 @@ const CHARACTERS = [
       "nombreCompleto": "Aloy",
       "faccion": "Colaboración (Horizon Zero Dawn)",
       "desc": "Cazadora de la tribu Nora, protagonista invitada de Horizon Zero Dawn. Ágil y decidida, combina flechas de precisión con bombas de hielo para infligir daño Cryo en el campo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Aloy_Wish.png"
+      "img": "../assets/genshin/Aloy_Wish-1e049b00.webp"
     },
     "nombre": "Aloy",
     "rareza": "5",
@@ -4131,7 +4131,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kujou Sara",
       "faccion": "Inazuma (Comisión Tenryou)",
       "desc": "General de la Comisión Tenryou y adoptada del clan Kujou, leal hasta la médula a la Shogun Raiden. Marca a los enemigos con su Habilidad y potencia el ATQ del equipo con su Estallido Electro.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Kujou_Sara_Wish.png"
+      "img": "../assets/genshin/Kujou_Sara_Wish-8921045b.webp"
     },
     "nombre": "Kujou Sara",
     "rareza": "4",
@@ -4223,7 +4223,7 @@ const CHARACTERS = [
       "nombreCompleto": "Raiden Shogun (Ei)",
       "faccion": "Inazuma",
       "desc": "La Arconte Electro y Shogun de Inazuma, que busca la eternidad. En combate golpea con su Ráfaga Musou no Hitotachi y potencia la energía y el daño de Ráfaga de todo el equipo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Raiden_Shogun_Card.png"
+      "img": "../assets/genshin/Raiden_Shogun_Card-41d0fe81.webp"
     },
     "nombre": "Raiden Shogun",
     "rareza": "5",
@@ -4314,7 +4314,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sangonomiya Kokomi",
       "faccion": "Inazuma",
       "desc": "Sacerdotisa Divina y líder del Ejército de la Resistencia de Watatsumi. Sanadora principal y aplicadora constante de Hydro gracias a su medusa y a su Ráfaga.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Sangonomiya_Kokomi_Card.png"
+      "img": "../assets/genshin/Sangonomiya_Kokomi_Card-ccc237b3.webp"
     },
     "nombre": "Sangonomiya Kokomi",
     "rareza": "5",
@@ -4406,7 +4406,7 @@ const CHARACTERS = [
       "nombreCompleto": "Thoma",
       "faccion": "Inazuma",
       "desc": "Administrador de la Comisión Yashiro, mitad Mondstadt mitad Inazuma. Escudero por excelencia: aplica Pyro y protege al equipo con la barrera de su Ráfaga.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Thoma_Card.png"
+      "img": "../assets/genshin/Thoma_Card-0f576f2b.webp"
     },
     "nombre": "Thoma",
     "rareza": "4",
@@ -4498,7 +4498,7 @@ const CHARACTERS = [
       "nombreCompleto": "Arataki Itto",
       "faccion": "Inazuma",
       "desc": "Líder de la Banda Arataki, mitad oni de gran fuerza. DPS Geo de campo que golpea con su mandoble Ushi durante su Ráfaga usando la DEF como estadística ofensiva.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Arataki_Itto_Card.png"
+      "img": "../assets/genshin/Arataki_Itto_Card-04b6f815.webp"
     },
     "nombre": "Arataki Itto",
     "rareza": "5",
@@ -4589,7 +4589,7 @@ const CHARACTERS = [
       "nombreCompleto": "Gorou",
       "faccion": "Inazuma",
       "desc": "General del Ejército de la Resistencia de Watatsumi. Apoyo Geo que refuerza la DEF y el daño Geo de sus aliados, imprescindible en equipos de piedra.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Gorou_Card.png"
+      "img": "../assets/genshin/Gorou_Card-31fc7998.webp"
     },
     "nombre": "Gorou",
     "rareza": "4",
@@ -4681,7 +4681,7 @@ const CHARACTERS = [
       "nombreCompleto": "Shenhe",
       "faccion": "Liyue",
       "desc": "Discípula de la Adepta Cloud Retainer, criada entre lo mortal y lo divino. Apoyo Cryo que carga a los aliados con púas que aumentan su daño Cryo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Shenhe_Card.png"
+      "img": "../assets/genshin/Shenhe_Card-dcd716b8.webp"
     },
     "nombre": "Shenhe",
     "rareza": "5",
@@ -4772,7 +4772,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yun Jin",
       "faccion": "Liyue",
       "desc": "Directora de la compañía de ópera Yun-Han de Liyue. Apoyo Geo que potencia el daño de Ataque Normal de todo el equipo escalando con su DEF.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Yun_Jin_Card.png"
+      "img": "../assets/genshin/Yun_Jin_Card-dfd5611e.webp"
     },
     "nombre": "Yun Jin",
     "rareza": "4",
@@ -4864,7 +4864,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yae Miko",
       "faccion": "Inazuma",
       "desc": "Gran Sacerdotisa del Gran Santuario Narukami y dueña de la Editorial Yae. Sub-DPS Electro que despliega tótems de daño automático fuera de campo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Yae_Miko_Card.png"
+      "img": "../assets/genshin/Yae_Miko_Card-b6483173.webp"
     },
     "nombre": "Yae Miko",
     "rareza": "5",
@@ -4956,7 +4956,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kamisato Ayato",
       "faccion": "Inazuma",
       "desc": "Jefe del Clan Kamisato y líder de la Comisión Yashiro. DPS Hydro de campo que descarga rápidas estocadas de agua con su estilo Kamisato Soutou.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Kamisato_Ayato_Card.png"
+      "img": "../assets/genshin/Kamisato_Ayato_Card-f05dbbd0.webp"
     },
     "nombre": "Kamisato Ayato",
     "rareza": "5",
@@ -5048,7 +5048,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kuki Shinobu",
       "faccion": "Inazuma",
       "desc": "Segunda al mando de la Banda Arataki. Sanadora y activadora de Electro que destaca disparando Hiperfloración con su Maestría Elemental.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Kuki_Shinobu_Card.png"
+      "img": "../assets/genshin/Kuki_Shinobu_Card-1cea6a01.webp"
     },
     "nombre": "Kuki Shinobu",
     "rareza": "4",
@@ -5140,7 +5140,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yelan",
       "faccion": "Liyue",
       "desc": "Agente misteriosa que dice trabajar para la Cámara de Comercio Yanshang. Sub-DPS Hydro fuera de campo cuyo daño de Ráfaga escala con sus puntos de vida.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Yelan_Card.png"
+      "img": "../assets/genshin/Yelan_Card-82a63cd4.webp"
     },
     "nombre": "Yelan",
     "rareza": "5",
@@ -5232,7 +5232,7 @@ const CHARACTERS = [
       "nombreCompleto": "Shikanoin Heizou",
       "faccion": "Inazuma",
       "desc": "Detective prodigio de la Comisión Tenryou. Primer catalizador Anemo cuerpo a cuerpo: golpea con artes marciales y provoca Torbellinos como DPS de campo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Shikanoin_Heizou_Card.png"
+      "img": "../assets/genshin/Shikanoin_Heizou_Card-0506462d.webp"
     },
     "nombre": "Shikanoin Heizou",
     "rareza": "4",
@@ -5324,7 +5324,7 @@ const CHARACTERS = [
       "nombreCompleto": "Collei",
       "faccion": "Sumeru",
       "desc": "Aprendiz de guardabosques del Gran Bosque de Avidya y aliada de Tighnari. Apoyo Dendro que aplica el elemento fuera de campo con su Habilidad y su Ráfaga.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Collei_Card.png"
+      "img": "../assets/genshin/Collei_Card-82d08afa.webp"
     },
     "nombre": "Collei",
     "rareza": "4",
@@ -5416,7 +5416,7 @@ const CHARACTERS = [
       "nombreCompleto": "Dori",
       "faccion": "Sumeru",
       "desc": "Astuta mercader de la Compañía Dori en Sumeru, siempre atenta a un buen negocio. Ofrece de todo, por el precio correcto. En combate combina curación con recarga de energía para el grupo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Dori_Card.png"
+      "img": "../assets/genshin/Dori_Card-f86c94f6.webp"
     },
     "nombre": "Dori",
     "rareza": "4",
@@ -5508,7 +5508,7 @@ const CHARACTERS = [
       "nombreCompleto": "Tighnari",
       "faccion": "Sumeru",
       "desc": "Guardabosques general de la aldea Gandharva, en el Bosque de Avidya. Meticuloso y sabio, protege la naturaleza de Sumeru. Es un experto arquero Dendro centrado en el disparo cargado.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Tighnari_Card.png"
+      "img": "../assets/genshin/Tighnari_Card-ea8c2eb3.webp"
     },
     "nombre": "Tighnari",
     "rareza": "5",
@@ -5600,7 +5600,7 @@ const CHARACTERS = [
       "nombreCompleto": "Candace",
       "faccion": "Sumeru",
       "desc": "Guardiana de la aldea de Aaru, en el desierto de Sumeru, y descendiente de un antiguo linaje real. Protege a su gente con lanza y escudo. Aplica Hydro y potencia los ataques normales del equipo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Candace_Card.png"
+      "img": "../assets/genshin/Candace_Card-32ec09d6.webp"
     },
     "nombre": "Candace",
     "rareza": "4",
@@ -5692,7 +5692,7 @@ const CHARACTERS = [
       "nombreCompleto": "Cyno",
       "faccion": "Sumeru",
       "desc": "General Mahamatra de la Academia de Sumeru, encargado de vigilar la conducta de los eruditos. Serio y justiciero, con afición por los acertijos. Se transforma para desatar rápidos ataques Electro.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Cyno_Card.png"
+      "img": "../assets/genshin/Cyno_Card-54be90dc.webp"
     },
     "nombre": "Cyno",
     "rareza": "5",
@@ -5784,7 +5784,7 @@ const CHARACTERS = [
       "nombreCompleto": "Nilou",
       "faccion": "Sumeru",
       "desc": "Estrella danzante del Teatro Zubayr de Sumeru, célebre por su gracia sobre el escenario. Dulce y algo tímida fuera de él. Su juego se centra en potenciar la reacción de Floración con equipos puros de Hydro y Dendro.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Nilou_Card.png"
+      "img": "../assets/genshin/Nilou_Card-04a73a40.webp"
     },
     "nombre": "Nilou",
     "rareza": "5",
@@ -5876,7 +5876,7 @@ const CHARACTERS = [
       "nombreCompleto": "Layla",
       "faccion": "Sumeru",
       "desc": "Estudiante de teorética estelar de Rtawahist, en la Academia de Sumeru, siempre falta de sueño. Su otro yo sonámbulo termina sus trabajos. Genera un escudo resistente y ataca con estrellas Cryo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Layla_Card.png"
+      "img": "../assets/genshin/Layla_Card-30e1164c.webp"
     },
     "nombre": "Layla",
     "rareza": "4",
@@ -5968,7 +5968,7 @@ const CHARACTERS = [
       "nombreCompleto": "Nahida (Buer / Lesser Lord Kusanali)",
       "faccion": "Sumeru",
       "desc": "La Arconte Dendro y Dios de la Sabiduría de Sumeru, la más joven de los Arcontes. Bajo su apariencia infantil esconde una inteligencia inmensa. Aplica Dendro sin igual y es núcleo de casi todo equipo de reacciones.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Nahida_Card.png"
+      "img": "../assets/genshin/Nahida_Card-c1eb29dc.webp"
     },
     "nombre": "Nahida",
     "rareza": "5",
@@ -6060,7 +6060,7 @@ const CHARACTERS = [
       "nombreCompleto": "Faruzan",
       "faccion": "Sumeru",
       "desc": "Investigadora de la casa Haravatat de la Academia que despertó tras un siglo sellada en unas ruinas. Genio despistado atrapado en un mundo que ya no reconoce. Es la mejor potenciadora de daño Anemo del juego.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Faruzan_Card.png"
+      "img": "../assets/genshin/Faruzan_Card-89d9b17f.webp"
     },
     "nombre": "Faruzan",
     "rareza": "4",
@@ -6152,7 +6152,7 @@ const CHARACTERS = [
       "nombreCompleto": "Vagabundo (Scaramouche / Wanderer)",
       "faccion": "Sumeru (ex-Fatui)",
       "desc": "Antiguo Sexto de los Once Heraldos Fatui, la marioneta creada por Raiden Ei que renunció a su pasado. Tras reescribir su historia sirve ahora en Sumeru. DPS Anemo que combate flotando en el aire.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Wanderer_Card.png"
+      "img": "../assets/genshin/Wanderer_Card-a47bb97e.webp"
     },
     "nombre": "Vagabundo",
     "rareza": "5",
@@ -6244,7 +6244,7 @@ const CHARACTERS = [
       "nombreCompleto": "Alhaitham",
       "faccion": "Sumeru",
       "desc": "Escriba de la Academia de Sumeru, lógico e independiente, prefiere el conocimiento a los cargos de poder. Combate con una espada que proyecta espejos de luz Dendro para desatar rápidos ataques.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Alhaitham_Card.png"
+      "img": "../assets/genshin/Alhaitham_Card-54003683.webp"
     },
     "nombre": "Alhaitham",
     "rareza": "5",
@@ -6336,7 +6336,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yaoyao",
       "faccion": "Liyue",
       "desc": "Joven discípula de la adepta Yaksha 'Cloud Retainer' y protegida de Ganyu, de gran corazón y siempre pendiente de los demás. Cura al equipo con sus ranas mecánicas Yuegui mientras aplica Dendro.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Yaoyao_Card.png"
+      "img": "../assets/genshin/Yaoyao_Card-ede070cf.webp"
     },
     "nombre": "Yaoyao",
     "rareza": "4",
@@ -6428,7 +6428,7 @@ const CHARACTERS = [
       "nombreCompleto": "Dehya",
       "faccion": "Sumeru",
       "desc": "Mercenaria de los Eremitas del desierto de Sumeru, apodada 'la Leona Ardiente de las Dunas'. Leal y protectora con quienes considera familia. Combate como guardiana Pyro que absorbe daño por el equipo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Dehya_Card.png"
+      "img": "../assets/genshin/Dehya_Card-84f3967c.webp"
     },
     "nombre": "Dehya",
     "rareza": "5",
@@ -6520,7 +6520,7 @@ const CHARACTERS = [
       "nombreCompleto": "Mika",
       "faccion": "Mondstadt",
       "desc": "Miembro de la Orden de Caballeros de Favonio y ayudante topógrafo del equipo de reconocimiento. Meticuloso y algo nervioso, admira a Eula. Cura al equipo y potencia la velocidad de ataque de los DPS físicos.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Mika_Card.png"
+      "img": "../assets/genshin/Mika_Card-cd2629d3.webp"
     },
     "nombre": "Mika",
     "rareza": "4",
@@ -6612,7 +6612,7 @@ const CHARACTERS = [
       "nombreCompleto": "Baizhu",
       "faccion": "Liyue - Farmacia Bubu",
       "desc": "Médico y dueño de la Farmacia Bubu en Liyue, siempre acompañado por su serpiente blanca Changsheng. De salud frágil, dedica su vida a la búsqueda de curas y a cuidar de los demás. Como personaje Dendro, es un potente sanador y aplicador elemental.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Baizhu_Card.png"
+      "img": "../assets/genshin/Baizhu_Card-029027aa.webp"
     },
     "nombre": "Baizhu",
     "rareza": "5",
@@ -6704,7 +6704,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kaveh",
       "faccion": "Sumeru",
       "desc": "Arquitecto de renombre en Sumeru, diseñador del Palacio de Alcazarzaray. De espíritu idealista y sensible, arrastra deudas y comparte casa con Alhaitham. Como espadón Dendro brilla como conductor de equipos de Floración.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Kaveh_Card.png"
+      "img": "../assets/genshin/Kaveh_Card-e8d21d29.webp"
     },
     "nombre": "Kaveh",
     "rareza": "4",
@@ -6796,7 +6796,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kirara",
       "faccion": "Inazuma - Komaniya Express",
       "desc": "Repartidora de la empresa de mensajería Komaniya Express en Inazuma, es un youkai nekomata capaz de transformarse. Alegre y entregada a su trabajo, entrega paquetes por todo el país. Como espada Dendro cumple un rol de escudo y soporte.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Kirara_Card.png"
+      "img": "../assets/genshin/Kirara_Card-899455d5.webp"
     },
     "nombre": "Kirara",
     "rareza": "4",
@@ -6888,7 +6888,7 @@ const CHARACTERS = [
       "nombreCompleto": "Freminet",
       "faccion": "Fontaine - Grupo de buceo",
       "desc": "Buzo callado y solitario de Fontaine, medio hermano de Lyney y Lynette dentro de la Casa de la Cuerda. Prefiere la compañía de su pingüino mecánico Pers antes que la de la gente. Como lanza Cryo funciona de DPS on-field en equipos de Congelación o Fusión.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3c/Freminet_Card.png"
+      "img": "../assets/genshin/Freminet_Card-34e63c16.webp"
     },
     "nombre": "Freminet",
     "rareza": "4",
@@ -6980,7 +6980,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lyney",
       "faccion": "Fontaine - Casa de la Cuerda",
       "desc": "Célebre mago del escenario en Fontaine y hermano mayor de Lynette y Freminet. Elegante y encantador, oculta bajo sus trucos una labor al servicio de Focalors. Como arco Pyro es un potente DPS on-field de disparos cargados.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Lyney_Card.png"
+      "img": "../assets/genshin/Lyney_Card-2e01cb1a.webp"
     },
     "nombre": "Lyney",
     "rareza": "5",
@@ -7072,7 +7072,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lynette",
       "faccion": "Fontaine - Casa de la Cuerda",
       "desc": "Asistente de mago y hermana melliza de Lyney, de temperamento sereno y reservado. Aparece imperturbable en el escenario mientras ejecuta trucos con precisión. Como espada Anemo es una soporte que agrupa enemigos y reduce su resistencia elemental.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Lynette_Card.png"
+      "img": "../assets/genshin/Lynette_Card-dcacfc97.webp"
     },
     "nombre": "Lynette",
     "rareza": "4",
@@ -7170,7 +7170,7 @@ const CHARACTERS = [
       "nombreCompleto": "Neuvillette",
       "faccion": "Fontaine - Corte Suprema",
       "desc": "Juez Supremo de Fontaine, imparte justicia con una autoridad fría y ceremoniosa. En realidad es la reencarnación del Dragón Soberano de las Aguas, señor de la hidrología. Como catalizador Hydro es uno de los mejores DPS on-field del juego, escalando con Puntos de Vida.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Neuvillette_Card.png"
+      "img": "../assets/genshin/Neuvillette_Card-14bfe4f8.webp"
     },
     "nombre": "Neuvillette",
     "rareza": "5",
@@ -7262,7 +7262,7 @@ const CHARACTERS = [
       "nombreCompleto": "Wriothesley",
       "faccion": "Fontaine - Fortaleza Meropide",
       "desc": "Administrador de la prisión subacuática Fortaleza Meropide en Fontaine. De aire caballeroso pero implacable, gobierna el recinto con sus propias reglas. Como catalizador Cryo pelea con guanteletes, siendo un DPS on-field de golpes rápidos.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Wriothesley_Card.png"
+      "img": "../assets/genshin/Wriothesley_Card-e390946b.webp"
     },
     "nombre": "Wriothesley",
     "rareza": "5",
@@ -7354,7 +7354,7 @@ const CHARACTERS = [
       "nombreCompleto": "Charlotte",
       "faccion": "Fontaine - Periódico El Pájaro de Vapor",
       "desc": "Enérgica reportera del periódico El Pájaro de Vapor de Fontaine, siempre en busca de la primicia con su cámara Monsieur Verite. Curiosa e incansable, persigue la verdad allá donde esté. Como catalizador Cryo es una sanadora y soporte que aplica Cryo a distancia.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Charlotte_Card.png"
+      "img": "../assets/genshin/Charlotte_Card-5abd28b4.webp"
     },
     "nombre": "Charlotte",
     "rareza": "4",
@@ -7446,7 +7446,7 @@ const CHARACTERS = [
       "nombreCompleto": "Furina",
       "faccion": "Fontaine - Arconte de la Justicia",
       "desc": "La deslumbrante Focalors, Arconte Hidro y regente de Fontaine durante siglos, siempre en el centro del escenario. Tras su fachada teatral esconde una carga y un sacrificio enormes por su pueblo. Como espada Hydro es una de las mejores soportes/buffers del juego, escalando con PV.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Furina_Card.png"
+      "img": "../assets/genshin/Furina_Card-95ec092d.webp"
     },
     "nombre": "Furina",
     "rareza": "5",
@@ -7538,7 +7538,7 @@ const CHARACTERS = [
       "nombreCompleto": "Chevreuse",
       "faccion": "Fontaine - Gendarmería Especial",
       "desc": "Oficial de la Gendarmería que vela por los barrios populares de Fontaine con estricto sentido del deber. Seria y protectora, cuida de su familia y de la comunidad. Como lanza Pyro es una soporte y sanadora que potencia enormemente los equipos de Sobrecarga.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Chevreuse_Card.png"
+      "img": "../assets/genshin/Chevreuse_Card-6168dd77.webp"
     },
     "nombre": "Chevreuse",
     "rareza": "4",
@@ -7630,7 +7630,7 @@ const CHARACTERS = [
       "nombreCompleto": "Navia",
       "faccion": "Fontaine - Spina di Rosula",
       "desc": "Elegante y decidida presidenta de la organización Spina di Rosula en Fontaine, con un carácter tan fuerte como amable. Bajo su sombrilla oculta un poderoso cañón de perdigones. Como espadón Geo es una potente DPS de explosiones de daño en área.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Navia_Card.png"
+      "img": "../assets/genshin/Navia_Card-4bb7f3c0.webp"
     },
     "nombre": "Navia",
     "rareza": "5",
@@ -7722,7 +7722,7 @@ const CHARACTERS = [
       "nombreCompleto": "Gaming",
       "faccion": "Liyue",
       "desc": "Joven repartidor y bailarín de la danza del león en Liyue, lleno de energía y optimismo. Sueña con abrir su propio negocio y honrar las tradiciones festivas de su ciudad. Como espadón Pyro es un DPS on-field basado en ataques descendentes.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Gaming_Card.png"
+      "img": "../assets/genshin/Gaming_Card-bd639240.webp"
     },
     "nombre": "Gaming",
     "rareza": "4",
@@ -7814,7 +7814,7 @@ const CHARACTERS = [
       "nombreCompleto": "Xianyun \"Retenedora de Nubes\"",
       "faccion": "Liyue",
       "desc": "Una adepta de Liyue que adopta forma humana. Maestra de las artes mecánicas y grande entre los Iluminados, ayuda a los mortales con su ingenio y su presencia serena.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Character_Xianyun_Full_Wish.png"
+      "img": "../assets/genshin/Character_Xianyun_Full_Wish-2fe5290f.webp"
     },
     "nombre": "Xianyun",
     "rareza": "5",
@@ -7906,7 +7906,7 @@ const CHARACTERS = [
       "nombreCompleto": "Chiori",
       "faccion": "Fontaine",
       "desc": "Célebre diseñadora de moda de Fontaine, dueña de la boutique Chioriya. Perfeccionista y de gusto exquisito, maneja el Geo con la misma precisión con la que corta la tela.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Chiori_Full_Wish.png"
+      "img": "../assets/genshin/Character_Chiori_Full_Wish-5f1a6980.webp"
     },
     "nombre": "Chiori",
     "rareza": "5",
@@ -7998,7 +7998,7 @@ const CHARACTERS = [
       "nombreCompleto": "Arlecchino \"El Padre / La Sirvienta\"",
       "faccion": "Fontaine / Fatui",
       "desc": "La Cuarta de los Once Heraldos Fatui y directora del orfanato Casa de la Infancia. Fría y letal, sus hijos la llaman Padre; empuña el Pyro con la elegancia de una ejecutora.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Arlecchino_Full_Wish.png"
+      "img": "../assets/genshin/Character_Arlecchino_Full_Wish-d9d17323.webp"
     },
     "nombre": "Arlecchino",
     "rareza": "5",
@@ -8090,7 +8090,7 @@ const CHARACTERS = [
       "nombreCompleto": "Clorinde",
       "faccion": "Fontaine",
       "desc": "Duelista campeona de Fontaine, contratada para resolver disputas mediante combates. Silenciosa y precisa, combina esgrima y disparos Electro con letal elegancia.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Character_Clorinde_Full_Wish.png"
+      "img": "../assets/genshin/Character_Clorinde_Full_Wish-ec00a77a.webp"
     },
     "nombre": "Clorinde",
     "rareza": "5",
@@ -8183,7 +8183,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sethos",
       "faccion": "Sumeru",
       "desc": "Guardián del Mausoleo del Rey Deshret en el desierto de Sumeru. Heredero de antiguas técnicas de arquería Electro, protege los secretos de una civilización perdida.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Character_Sethos_Full_Wish.png"
+      "img": "../assets/genshin/Character_Sethos_Full_Wish-d2dd409a.webp"
     },
     "nombre": "Sethos",
     "rareza": "4",
@@ -8275,7 +8275,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sigewinne",
       "faccion": "Fontaine",
       "desc": "Melusina y jefa de enfermería de la Fortaleza Meropide. Dulce y entregada, cuida de todos los reclusos con una devoción que trasciende su pequeño tamaño.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Character_Sigewinne_Full_Wish.png"
+      "img": "../assets/genshin/Character_Sigewinne_Full_Wish-a65e5282.webp"
     },
     "nombre": "Sigewinne",
     "rareza": "5",
@@ -8368,7 +8368,7 @@ const CHARACTERS = [
       "nombreCompleto": "Emilie",
       "faccion": "Fontaine",
       "desc": "Célebre perfumista de Fontaine, capaz de recrear cualquier aroma. Discreta y metódica, esconde bajo su oficio una faceta mucho más resolutiva de lo que aparenta.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Character_Emilie_Full_Wish.png"
+      "img": "../assets/genshin/Character_Emilie_Full_Wish-3097fa49.webp"
     },
     "nombre": "Emilie",
     "rareza": "5",
@@ -8460,7 +8460,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kachina",
       "faccion": "Natlan",
       "desc": "Joven guerrera del Pueblo de los Manantiales de Natlan, la primera de su tribu en obtener un saurio. Entusiasta y algo insegura, se esfuerza por demostrar su valía.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Character_Kachina_Full_Wish.png"
+      "img": "../assets/genshin/Character_Kachina_Full_Wish-9254dd8d.webp"
     },
     "nombre": "Kachina",
     "rareza": "4",
@@ -8553,7 +8553,7 @@ const CHARACTERS = [
       "nombreCompleto": "Kinich",
       "faccion": "Natlan",
       "desc": "Cazador de recompensas del linaje del Estrato de Follaje, acompañado siempre por el saurio dragón parlante Ajaw. Pragmático y directo, negocia cada trabajo al detalle.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Character_Kinich_Full_Wish.png"
+      "img": "../assets/genshin/Character_Kinich_Full_Wish-dd3580ef.webp"
     },
     "nombre": "Kinich",
     "rareza": "5",
@@ -8645,7 +8645,7 @@ const CHARACTERS = [
       "nombreCompleto": "Mualani",
       "faccion": "Natlan",
       "desc": "Guía turística del Pueblo de los Manantiales de Natlan, siempre lista para una aventura sobre su tabla de tiburón. Alegre y extrovertida, conoce cada rincón de su tierra.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Character_Mualani_Full_Wish.png"
+      "img": "../assets/genshin/Character_Mualani_Full_Wish-cf1e5c31.webp"
     },
     "nombre": "Mualani",
     "rareza": "5",
@@ -8737,7 +8737,7 @@ const CHARACTERS = [
       "nombreCompleto": "Xilonen",
       "faccion": "Natlan",
       "desc": "Herrera del Pueblo de las Praderas de Natlan, artífice de equipamiento para toda la nación. Distante en apariencia pero de corazón noble, dominar el metal es su vocación.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Character_Xilonen_Full_Wish.png"
+      "img": "../assets/genshin/Character_Xilonen_Full_Wish-253fb977.webp"
     },
     "nombre": "Xilonen",
     "rareza": "5",
@@ -8829,7 +8829,7 @@ const CHARACTERS = [
       "nombreCompleto": "Chasca",
       "faccion": "Natlan",
       "desc": "Jinete del Clan de la Flor y la Pluma de Natlan, veloz como el viento nocturno. Justiciera de carácter fuerte, patrulla los cielos en busca de quien perturbe la paz.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Character_Chasca_Full_Wish.png"
+      "img": "../assets/genshin/Character_Chasca_Full_Wish-f8ace233.webp"
     },
     "nombre": "Chasca",
     "rareza": "5",
@@ -8921,7 +8921,7 @@ const CHARACTERS = [
       "nombreCompleto": "Ororon",
       "faccion": "Natlan",
       "desc": "Joven callado del Clan de la Flor y la Pluma de Natlan, con un vínculo especial con los ecos de los difuntos. De pocas palabras, oculta un pasado ligado a antiguos nombres.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Character_Ororon_Full_Wish.png"
+      "img": "../assets/genshin/Character_Ororon_Full_Wish-f13c51c1.webp"
     },
     "nombre": "Ororon",
     "rareza": "4",
@@ -9014,7 +9014,7 @@ const CHARACTERS = [
       "nombreCompleto": "Citlali",
       "faccion": "Natlan",
       "desc": "Anciana adivina de Natlan versada en astrología y en los antiguos ritos. Manipula el hielo y la constelación de Itzpapalotl para apoyar y castigar a sus enemigos.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Character_Citlali_Game.png"
+      "img": "../assets/genshin/Character_Citlali_Game-48ea71cf.webp"
     },
     "nombre": "Citlali",
     "rareza": "5",
@@ -9107,7 +9107,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lan Yan",
       "faccion": "Liyue",
       "desc": "Joven diseñadora de fuegos artificiales de Liyue, alegre y creativa. Emplea el viento para agrupar enemigos y proteger a sus aliados con escudos.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Character_Lan_Yan_Game.png"
+      "img": "../assets/genshin/Character_Lan_Yan_Game-9ef729e1.webp"
     },
     "nombre": "Lan Yan",
     "rareza": "4",
@@ -9200,7 +9200,7 @@ const CHARACTERS = [
       "nombreCompleto": "Mavuika",
       "faccion": "Natlan",
       "desc": "Arconte Pyro y general de Natlan, líder indómita de su pueblo. Encarna la voluntad de guerra de la nación y desata llamaradas colosales en combate.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Character_Mavuika_Game.png"
+      "img": "../assets/genshin/Character_Mavuika_Game-5ccb02fd.webp"
     },
     "nombre": "Mavuika",
     "rareza": "5",
@@ -9293,7 +9293,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yumemizuki Mizuki",
       "faccion": "Inazuma",
       "desc": "Elegante youkai de Inazuma ligada al mundo de los sueños. Manipula el viento onírico para agrupar enemigos, provocar torbellinos y fortalecer a sus aliados.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Character_Yumemizuki_Mizuki_Game.png"
+      "img": "../assets/genshin/Character_Yumemizuki_Mizuki_Game-f6144264.webp"
     },
     "nombre": "Yumemizuki Mizuki",
     "rareza": "5",
@@ -9386,7 +9386,7 @@ const CHARACTERS = [
       "nombreCompleto": "Iansan",
       "faccion": "Natlan",
       "desc": "Entrenadora deportiva de Natlan, enérgica y disciplinada. Impulsa a sus aliados con descargas Electro que aumentan su ataque y ritmo de combate.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Character_Iansan_Game.png"
+      "img": "../assets/genshin/Character_Iansan_Game-e34e971e.webp"
     },
     "nombre": "Iansan",
     "rareza": "4",
@@ -9479,7 +9479,7 @@ const CHARACTERS = [
       "nombreCompleto": "Varesa",
       "faccion": "Natlan",
       "desc": "Joven y explosiva luchadora de Natlan, apasionada por la lucha libre. Se lanza desde el aire con golpes en picado cargados de energía Electro.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Character_Varesa_Game.png"
+      "img": "../assets/genshin/Character_Varesa_Game-7b0235e5.webp"
     },
     "nombre": "Varesa",
     "rareza": "5",
@@ -9572,7 +9572,7 @@ const CHARACTERS = [
       "nombreCompleto": "Escoffier",
       "faccion": "Fontaine",
       "desc": "Reputada chef de Fontaine, meticulosa y perfeccionista. Combina su arte culinario con el hielo para nutrir y potenciar a sus compañeros de equipo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Escoffier_Game.png"
+      "img": "../assets/genshin/Character_Escoffier_Game-c9f4986d.webp"
     },
     "nombre": "Escoffier",
     "rareza": "5",
@@ -9665,7 +9665,7 @@ const CHARACTERS = [
       "nombreCompleto": "Ifa",
       "faccion": "Natlan",
       "desc": "Médico y piloto de dirigible de Natlan, sereno y analítico. Usa el viento para sanar y potenciar la energía Nocturnia de sus aliados.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Character_Ifa_Game.png"
+      "img": "../assets/genshin/Character_Ifa_Game-80b25c8e.webp"
     },
     "nombre": "Ifa",
     "rareza": "4",
@@ -9758,7 +9758,7 @@ const CHARACTERS = [
       "nombreCompleto": "Dahlia",
       "faccion": "Fontaine",
       "desc": "Caballero devoto de Fontaine, amable y protector. Emplea el agua para escudar y sostener a sus aliados con un apoyo defensivo constante.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Character_Dahlia_Game.png"
+      "img": "../assets/genshin/Character_Dahlia_Game-45fd222e.webp"
     },
     "nombre": "Dahlia",
     "rareza": "4",
@@ -9851,7 +9851,7 @@ const CHARACTERS = [
       "nombreCompleto": "Skirk",
       "faccion": "Snezhnaya",
       "desc": "Enigmática espadachina ligada al Abismo y maestra de Tartaglia. Domina un estilo de esgrima gélido y letal aprendido en un mundo más allá del velo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Character_Skirk_Game.png"
+      "img": "../assets/genshin/Character_Skirk_Game-63d0e773.webp"
     },
     "nombre": "Skirk",
     "rareza": "5",
@@ -9950,7 +9950,7 @@ const CHARACTERS = [
       "nombreCompleto": "Ineffa",
       "faccion": "Nod-Krai",
       "desc": "Personaje 5★ Electro de Lanza de Nod-Krai, ligada al Taller Krumkake Clink-Clank. Funciona como Sub-DPS de Carga Lunar que potencia su ATQ para maximizar la reacción de Carga Lunar, capaz de dar golpes críticos. Debutó en la versión 5.8 (30 de julio de 2025).",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Character_Ineffa_Full_Wish.png"
+      "img": "../assets/genshin/Character_Ineffa_Full_Wish-0e756fff.webp"
     },
     "elemento": "Electro",
     "arma": "Lanza",
@@ -10049,7 +10049,7 @@ const CHARACTERS = [
       "nombreCompleto": "Aino",
       "faccion": "Nod-Krai",
       "desc": "Personaje 4★ Hydro de Mandoble, la primera de su tipo, obtenible gratis en la misión de Arconte de la versión 6.0. Soporte Hydro que aplica Hydro en área y otorga fuertes bonos de Maestría Elemental al equipo, ideal para Floración, Hyperfloración y Vaporización. Pertenece al Taller Krumkake Clink-Clank de Nod-Krai.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Character_Aino_Full_Wish.png"
+      "img": "../assets/genshin/Character_Aino_Full_Wish-b645e330.webp"
     },
     "elemento": "Hydro",
     "arma": "Mandoble",
@@ -10148,7 +10148,7 @@ const CHARACTERS = [
       "nombreCompleto": "Flins",
       "faccion": "Nod-Krai",
       "desc": "Personaje 5★ Electro de Lanza de Nod-Krai, miembro de los Guardianes de la Luz (Lightkeepers). Es un DPS principal de Carga Lunar que valora aliados Electro e Hydro para desencadenar y mantener la reacción. Debutó en la Fase 2 de la versión 6.0 (30 de septiembre de 2025).",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Character_Flins_Full_Wish.png"
+      "img": "../assets/genshin/Character_Flins_Full_Wish-fd788f93.webp"
     },
     "elemento": "Electro",
     "arma": "Lanza",
@@ -10246,7 +10246,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lauma",
       "faccion": "Nod-Krai",
       "desc": "Personaje jugable de Dendro (catalizador) de 5★ introducida en la región de Nod-Krai. Actúa como apoyo de reacciones basadas en Floración y Floración Lunar. Su rendimiento escala principalmente con la Maestría Elemental.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Lauma_Card.png"
+      "img": "../assets/genshin/Lauma_Card-9d8f883d.webp"
     },
     "nombre": "Lauma",
     "rareza": "5",
@@ -10338,7 +10338,7 @@ const CHARACTERS = [
       "nombreCompleto": "Nefer",
       "faccion": "Nod-Krai",
       "desc": "Personaje 5★ Dendro de Catalizador de Nod-Krai, del Curatorium de Secretos. DPS on-field que causa daño masivo con la nueva reacción de Floración Lunar (Lunar-Bloom), una variante superior de Floración que conserva la capacidad de dar CRÍTICO. Su Habilidad la pone en estado de Danza de Sombras. Debutó en la versión 6.1 (22 de octubre de 2025).",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Character_Nefer_Full_Wish.png"
+      "img": "../assets/genshin/Character_Nefer_Full_Wish-0002bdae.webp"
     },
     "elemento": "Dendro",
     "arma": "Catalizador",
@@ -10437,7 +10437,7 @@ const CHARACTERS = [
       "nombreCompleto": "Durin \"El Fuego Imperecedero\"",
       "faccion": "Mondstadt",
       "desc": "Personaje 5★ Pyro de Espada, el legendario dragón conocido como \"El Fuego Imperecedero\", ligado al Hexenzirkel (círculo de brujas) de Mondstadt. Sub-DPS/soporte Pyro que alterna entre Modo Luz y Modo Oscuridad para dar buffs de equipo o daño personal off-field, encajando muy bien en equipos Hexerei. Debutó en la Fase 1 de la versión 6.2 (3 de diciembre de 2025).",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Durin_Full_Wish.png"
+      "img": "../assets/genshin/Character_Durin_Full_Wish-9b3b3016.webp"
     },
     "elemento": "Pyro",
     "arma": "Espada",
@@ -10536,7 +10536,7 @@ const CHARACTERS = [
       "nombreCompleto": "Jahoda",
       "faccion": "Curatorium of Secrets (Nod-Krai)",
       "desc": "Personaje 4 estrellas Anemo de arco procedente de Nod-Krai, donde trabaja para el Curatorium of Secrets. Actúa como soporte Anemo, infundiendo viento y aportando curación con su Habilidad Definitiva. Se apoya en la reducción de resistencia elemental para potenciar al equipo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Jahoda_Card.png"
+      "img": "../assets/genshin/Jahoda_Card-e1bc519f.webp"
     },
     "elemento": "Anemo",
     "arma": "Arco",
@@ -10618,7 +10618,7 @@ const CHARACTERS = [
       "nombreCompleto": "Columbina Hyposelenia",
       "faccion": "Heraldos Fatui (Snezhnaya) - la Tercera, 'La Damisela'",
       "desc": "Antigua NPC convertida en personaje jugable: es Columbina, la Tercera de los Once Heraldos Fatui, apodada 'La Damisela'. Personaje 5 estrellas Hydro de catalizador. Su Habilidad invoca una onda de gravedad que sigue al personaje activo, y su Definitiva crea un Dominio Lunar que potencia cada tipo de reacción. Escala con PV máximo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Columbina_Card.png"
+      "img": "../assets/genshin/Columbina_Card-3694026e.webp"
     },
     "elemento": "Hydro",
     "arma": "Catalizador",
@@ -10706,7 +10706,7 @@ const CHARACTERS = [
       "nombreCompleto": "Illuga",
       "faccion": "Lightkeepers (Nod-Krai)",
       "desc": "Personaje 4 estrellas Geo de lanza y miembro de los Lightkeepers de Nod-Krai. Es un soporte buffer especializado en amplificar el daño de Cristalización Lunar mediante su Habilidad Definitiva, con capacidades que escalan con Maestría Elemental. Rinde mejor con dos o más aliados Geo/Hydro.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Illuga_Card.png"
+      "img": "../assets/genshin/Illuga_Card-ba2bdf46.webp"
     },
     "elemento": "Geo",
     "arma": "Lanza",
@@ -10805,7 +10805,7 @@ const CHARACTERS = [
       "nombreCompleto": "Zibai",
       "faccion": "Adepta de Liyue (porta una Rueda Lunar Geo en lugar de Visión)",
       "desc": "Personaje 5 estrellas Geo de espada; es una Adepta de Liyue que, en vez de una Visión, posee una Rueda Lunar Geo. Funciona como DPS principal de Cristalización Lunar: su daño frontal proviene de su Habilidad Elemental potenciada y todas sus habilidades escalan con Defensa.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/fb/Zibai_Card.png"
+      "img": "../assets/genshin/Zibai_Card-adabe0db.webp"
     },
     "elemento": "Geo",
     "arma": "Espada",
@@ -10912,7 +10912,7 @@ const CHARACTERS = [
       "nombreCompleto": "Varka",
       "faccion": "Caballeros de Favonius (Mondstadt) - Gran Maestre",
       "desc": "Antiguo NPC hecho jugable: es Varka, el Gran Maestre de los Caballeros de Favonius, por fin de vuelta en Mondstadt. Personaje 5 estrellas Anemo de mandoble con estilo de doble empuñadura: su Habilidad convierte el daño de su mandoble derecho según el elemento de los aliados (Pyro/Hydro/Electro/Cryo) mientras el izquierdo inflige daño Anemo.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Varka_Card.png"
+      "img": "../assets/genshin/Varka_Card-baf3c1cb.webp"
     },
     "elemento": "Anemo",
     "arma": "Mandoble",
@@ -10995,7 +10995,7 @@ const CHARACTERS = [
       "nombreCompleto": "Linnea",
       "faccion": "Nod-Krai",
       "desc": "Consejera y 'Augur de las Maravillas' del Gremio de Aventureros. Invoca a su compañera mecánica Lumi para golpear a los enemigos y provocar daño de Lunar-Cristalización. De origen ligado a Snezhnaya en el lore.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Linnea_Card.png"
+      "img": "../assets/genshin/Linnea_Card-f896932e.webp"
     },
     "elemento": "Geo",
     "arma": "Arco",
@@ -11077,7 +11077,7 @@ const CHARACTERS = [
       "nombreCompleto": "Nicole Reeyn",
       "faccion": "Hexenzirkel (antes Celestia)",
       "desc": "La primera bruja del Hexenzirkel jugable, apodada 'El Clamor Interior'. Soporte Pyro que otorga bonificación de ATQ y el 'Escudo de Luz Ardiente' con su Habilidad, y convoca 'Proyecciones Arcanas' que hacen ataques coordinados del elemento del personaje activo. En el lore es un ángel.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Nicole_Card.png"
+      "img": "../assets/genshin/Nicole_Card-89cbbdb3.webp"
     },
     "elemento": "Pyro",
     "arma": "Catalizador",
@@ -11159,7 +11159,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lohen",
       "faccion": "Mondstadt",
       "desc": "Vicecapitán de la Compañía de Tiradores de los Caballeros de Favonius, apodado 'Punta de Flecha Afilada'. Sus ataques infligen Cryo no sobrescribible durante 'Obra Maestra', acumula 'Alegría' y 'Voluntad de Vencer' para reforzar su daño y su Estallido.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Lohen_Card.png"
+      "img": "../assets/genshin/Lohen_Card-54fb849a.webp"
     },
     "elemento": "Cryo",
     "arma": "Lanza",
@@ -11241,7 +11241,7 @@ const CHARACTERS = [
       "nombreCompleto": "Prune",
       "faccion": "Mondstadt",
       "desc": "'Sueños Infantiles Atesorados', la pequeña 'cazabrujas' guiada por una razón precoz. Golpea la 'Campana Atraebrujas' para provocar Torbellino y convertir su 'Martillo del Juramento' al elemento del Torbellino, otorgando el efecto 'Repique de Batalla' al equipo. Ligada a Nod-Krai en el lore.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Prune_Card.png"
+      "img": "../assets/genshin/Prune_Card-69962d63.webp"
     },
     "elemento": "Anemo",
     "arma": "Catalizador",
@@ -11323,7 +11323,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sandrone (Marionette Guillotin)",
       "faccion": "Snezhnaya",
       "desc": "'La Marioneta', Séptima de los Once Heraldos Fatui, apodada 'Análisis Reflejado'. DPS Cryo que combate con su mecanismo 'Fagio' gestionando su Poder en dos modos, y despliega el 'Campo Estrella Polar' para dar Bonif. Daño Cryo/Electro y bajar la RES física de los enemigos.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sandrone_Card.png"
+      "img": "../assets/genshin/Sandrone_Card-ff36c96b.webp"
     },
     "elemento": "Cryo",
     "arma": "Mandoble",
@@ -11431,7 +11431,7 @@ const CHARACTERS = [
       "nombreCompleto": "Odette Spessiva",
       "faccion": "Compañía Korolevskiy / Fatui (Snezhnaya)",
       "desc": "'Nieve Arremolinada', prima ballerina de la Compañía Korolevskiy y candidata favorita a heredar el asiento de Heraldo de su mentora, la Signora. Con sus Habilidades 'Adagio' y 'Presto' invoca una Doble de Danza que ataca en área, y su pasivo 'Danza de Aurore' convierte Superconducción y Torbellino Cryo en reacciones Estelares, escalando su daño base con su ATQ.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Odette_Card.png"
+      "img": "../assets/genshin/Odette_Card-90721f9d.webp"
     },
     "elemento": "Cryo",
     "arma": "Espada",
@@ -11529,7 +11529,7 @@ const CHARACTERS = [
       "nombreCompleto": "Aliosha (Alyosha)",
       "faccion": "Rókot (Snezhnaya)",
       "desc": "'Sabueso de Paso Veloz', cazador invernal de Snezhnaya que combate junto a su perro Tugarin. Su Habilidad 'Golpe de Rayo' (toque o mantener con puntería) marca a los enemigos; su Estallido 'Avance del Cazador' invoca a Tugarin y crea un Campo de Caza de Fulgurita que provoca a los enemigos y les inflige daño Electro. Nombres ES de talentos por confirmar.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Alyosha_Card.png"
+      "img": "../assets/genshin/Alyosha_Card-73d422ab.webp"
     },
     "elemento": "Electro",
     "arma": "Lanza",
@@ -11617,7 +11617,7 @@ const CHARACTERS = [
       "nombreCompleto": "Vesna Strivozha",
       "faccion": "Druzhna (Snezhnaya)",
       "desc": "'Hoja Afilada del Banquete Nevado', comandante de la Druzhna y considerada la mano derecha de la Zarina, siempre a su lado junto a la jefa de doncellas Danica. Es una Vila de la casa Strivozha. Kit por confirmar.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Vesna_Card.png"
+      "img": "../assets/genshin/Vesna_Card-cd906d74.webp"
     },
     "elemento": "Anemo",
     "arma": "Espada",
@@ -11705,7 +11705,7 @@ const CHARACTERS = [
       "nombreCompleto": "Vodyanitsa",
       "faccion": "Compañía Korolevskiy / Rókot (Snezhnaya)",
       "desc": "'Canto de Sirena Persistente', un Duende de Agua (Water Imp) de Snezhnaya y prima donna de la Compañía Korolevskiy, famosa por una voz hipnótica que, se dice, esconde un encanto sobrenatural capaz de embrujar a quien la escucha. Kit por confirmar.",
-      "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Vodyanitsa_Card.png"
+      "img": "../assets/genshin/Vodyanitsa_Card-f07cacac.webp"
     },
     "elemento": "Hydro",
     "arma": "Catalizador",
