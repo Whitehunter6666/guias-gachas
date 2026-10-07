@@ -84,7 +84,7 @@ const CHARACTERS = [
       "nombreCompleto": "Errante (Espectro)",
       "faccion": "Protagonista",
       "desc": "El protagonista despierta su resonancia del elemento Espectro. Un híbrido versátil que impregna a los enemigos con Espectro Frazzle para amplificar el daño del equipo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/7/70/Rover_1.png"
+      "img": "../assets/wuwa/Rover_1-82ac502c.webp"
     },
     "nombre": "Errante (Espectro)",
     "rareza": "5",
@@ -174,7 +174,7 @@ const CHARACTERS = [
       "nombreCompleto": "Errante (Estrago)",
       "faccion": "Protagonista",
       "desc": "El protagonista con su resonancia de Estrago. Un DPS principal de Ataque Básico que alterna entre forma normal y potenciada acumulando marcas de Estrago.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/7/70/Rover_1.png"
+      "img": "../assets/wuwa/Rover_1-82ac502c.webp"
     },
     "nombre": "Errante (Estrago)",
     "rareza": "5",
@@ -264,7 +264,7 @@ const CHARACTERS = [
       "nombreCompleto": "Errante (Aéreo)",
       "faccion": "Protagonista",
       "desc": "El protagonista con su resonancia Aérea. Soporte-sanador que aplica Erosión Aérea, buffea al equipo y mantiene al grupo con vida.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/7/70/Rover_1.png"
+      "img": "../assets/wuwa/Rover_1-82ac502c.webp"
     },
     "nombre": "Errante (Aéreo)",
     "rareza": "5",
@@ -353,7 +353,7 @@ const CHARACTERS = [
       "nombreCompleto": "Baizhi",
       "faccion": "Costas Negras",
       "desc": "Resonadora de Glacio de las Costas Negras. Sanadora gratuita accesible que mantiene al equipo con vida y aporta buffs de daño y ATQ.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/9/90/Baizhi_Convene_Draw.png"
+      "img": "../assets/wuwa/Baizhi_Convene_Draw-a2fb89ab.webp"
     },
     "nombre": "Baizhi",
     "rareza": "4",
@@ -442,7 +442,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sanhua",
       "faccion": "Huanglong",
       "desc": "Agente de Glacio de la Patrulla de Jinzhou. Soporte de Ataque Básico que amplifica enormemente el daño del DPS que entra tras ella.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/2/2c/Sanhua_Convene_Draw.png"
+      "img": "../assets/wuwa/Sanhua_Convene_Draw-d8048db2.webp"
     },
     "nombre": "Sanhua",
     "rareza": "4",
@@ -532,7 +532,7 @@ const CHARACTERS = [
       "nombreCompleto": "Chixia",
       "faccion": "Huanglong",
       "desc": "Enérgica agente de la Patrulla de Jinzhou que empuña dos pistolas de Fusión. DPS de daño de Habilidad rápido y explosivo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/5/51/Chixia_Convene_Draw.png"
+      "img": "../assets/wuwa/Chixia_Convene_Draw-288174d5.webp"
     },
     "nombre": "Chixia",
     "rareza": "4",
@@ -621,7 +621,7 @@ const CHARACTERS = [
       "nombreCompleto": "Mortefi",
       "faccion": "Huanglong",
       "desc": "Investigador de Huanglong que combina dos pistolas de Fusión. Sub-DPS de apoyo con ataques coordinados fuera de campo y buff de Ataque Pesado.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/a/af/Mortefi_Convene_Draw.png"
+      "img": "../assets/wuwa/Mortefi_Convene_Draw-fce464a5.webp"
     },
     "nombre": "Mortefi",
     "rareza": "4",
@@ -711,7 +711,7 @@ const CHARACTERS = [
       "nombreCompleto": "Danjin",
       "faccion": "Huanglong",
       "desc": "Espadachina de Huanglong que canaliza el Estrago sacrificando su propia salud. DPS agresiva de altísimo riesgo y recompensa.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/6/66/Danjin_Convene_Draw.png"
+      "img": "../assets/wuwa/Danjin_Convene_Draw-e313ba46.webp"
     },
     "nombre": "Danjin",
     "rareza": "4",
@@ -799,7 +799,7 @@ const CHARACTERS = [
       "nombreCompleto": "Taoqi",
       "faccion": "Huanglong",
       "desc": "Guardiana de Huanglong que empuña un enorme mandoble. Soporte defensivo que escala con DEF, escuda al equipo y potencia el daño Estrago.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b1/Taoqi_Convene_Draw.png"
+      "img": "../assets/wuwa/Taoqi_Convene_Draw-2d4e4414.webp"
     },
     "nombre": "Taoqi",
     "rareza": "4",
@@ -888,7 +888,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yangyang",
       "faccion": "Huanglong",
       "desc": "Delegada de la Oficina de Jinzhou. Resonadora Aérea de espada; soporte que agrupa enemigos y recarga energía del equipo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a7/Yangyang_Card.png"
+      "img": "../assets/wuwa/Yangyang_Card-01bfec02.webp"
     },
     "nombre": "Yangyang",
     "rareza": "4",
@@ -977,7 +977,7 @@ const CHARACTERS = [
       "nombreCompleto": "Aalto",
       "faccion": "Huanglong",
       "desc": "Informante enigmático de la Sociedad de Cazadores. Resonador Aéreo de pistolas; sub-DPS/amplificador que potencia el daño Aéreo del equipo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/3/3d/Aalto_Full_Sprite.png"
+      "img": "../assets/wuwa/Aalto_Full_Sprite-aed0f7dc.webp"
     },
     "nombre": "Aalto",
     "rareza": "4",
@@ -1066,7 +1066,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yuanwu",
       "faccion": "Huanglong",
       "desc": "Maestro de artes marciales y herrero de Jinzhou. Resonador Electro de guanteletes; soporte off-field con daño coordinado.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/1/17/Yuanwu_Full_Sprite.png"
+      "img": "../assets/wuwa/Yuanwu_Full_Sprite-77c6943e.webp"
     },
     "nombre": "Yuanwu",
     "rareza": "4",
@@ -1155,7 +1155,7 @@ const CHARACTERS = [
       "nombreCompleto": "Jianxin",
       "faccion": "Huanglong",
       "desc": "Practicante del Qi y guardiana serena. Resonadora Aérea de guanteletes; soporte con escudo y control que agrupa enemigos.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/f/ff/Jianxin_Splash_Art.png"
+      "img": "../assets/wuwa/Jianxin_Splash_Art-e1a25e03.webp"
     },
     "nombre": "Jianxin",
     "rareza": "5",
@@ -1244,7 +1244,7 @@ const CHARACTERS = [
       "nombreCompleto": "Jiyan",
       "faccion": "Huanglong",
       "desc": "General de la Fuerza Aérea de Midnight Rangers. Resonador Aéreo de mandoble; DPS principal hipercarry de altísimo daño explosivo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0d/Jiyan_Card.png"
+      "img": "../assets/wuwa/Jiyan_Card-f925445d.webp"
     },
     "nombre": "Jiyan",
     "rareza": "5",
@@ -1333,7 +1333,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lingyang",
       "faccion": "Huanglong",
       "desc": "Joven artista de la danza del león. Resonador Glacio de guanteletes; DPS principal de combos rápidos y ataques aéreos.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/9/98/Lingyang_Card.png"
+      "img": "../assets/wuwa/Lingyang_Card-93fe2f36.webp"
     },
     "nombre": "Lingyang",
     "rareza": "5",
@@ -1422,7 +1422,7 @@ const CHARACTERS = [
       "nombreCompleto": "Calcharo",
       "faccion": "Huanglong",
       "desc": "Líder mercenario de los Ghost Hounds. Resonador Electro de mandoble; DPS principal de alto daño en ráfagas durante su ulti.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e5/Calcharo_Card.png"
+      "img": "../assets/wuwa/Calcharo_Card-2cda0b8a.webp"
     },
     "nombre": "Calcharo",
     "rareza": "5",
@@ -1511,7 +1511,7 @@ const CHARACTERS = [
       "nombreCompleto": "Encore",
       "faccion": "Huanglong",
       "desc": "Joven Resonadora acompañada de su peluche Cosmos. Resonadora Fusión de rectificador; DPS principal de gran daño concentrado.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/6/6c/Encore_Card.png"
+      "img": "../assets/wuwa/Encore_Card-f776d0cf.webp"
     },
     "nombre": "Encore",
     "rareza": "5",
@@ -1600,7 +1600,7 @@ const CHARACTERS = [
       "nombreCompleto": "Verina",
       "faccion": "Costas Negras",
       "desc": "Botánica y Resonadora Espectro de rectificador. La sanadora/soporte por excelencia: cura, aumenta el ATQ del equipo y mejora el daño con su marca.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b1/Verina_Splash_Art.png"
+      "img": "../assets/wuwa/Verina_Splash_Art-d969fb98.webp"
     },
     "nombre": "Verina",
     "rareza": "5",
@@ -1688,7 +1688,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yinlin",
       "faccion": "Huanglong",
       "desc": "Ejecutora de la Patrulla Nocturna de Jinzhou. Elegante y calculadora, controla marionetas eléctricas para castigar a sus enemigos desde la distancia.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/3/33/Yinlin_Card.jpg"
+      "img": "../assets/wuwa/Yinlin_Card-f92d7207.webp"
     },
     "nombre": "Yinlin",
     "rareza": "5",
@@ -1776,7 +1776,7 @@ const CHARACTERS = [
       "nombreCompleto": "Jinhsi",
       "faccion": "Huanglong",
       "desc": "Magistrada de Jinzhou, portadora del linaje del Dragón Nocturno. Serena y de fuerte sentido del deber, canaliza el poder del Sendero Nocturno en devastadores ataques de Espectro.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/a/a9/Jinhsi_Card.png"
+      "img": "../assets/wuwa/Jinhsi_Card-6b8f791b.webp"
     },
     "nombre": "Jinhsi",
     "rareza": "5",
@@ -1864,7 +1864,7 @@ const CHARACTERS = [
       "nombreCompleto": "Changli",
       "faccion": "Huanglong",
       "desc": "Consejera cercana a la Magistrada de Jinzhou. Astuta y resuelta, empuña una espada envuelta en llamas y toma decisiones difíciles por el bien de Huanglong.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e9/Changli_Card.png"
+      "img": "../assets/wuwa/Changli_Card-49dddae1.webp"
     },
     "nombre": "Changli",
     "rareza": "5",
@@ -1952,7 +1952,7 @@ const CHARACTERS = [
       "nombreCompleto": "Zhezhi",
       "faccion": "Huanglong",
       "desc": "Pintora de talento excepcional capaz de dar vida a sus obras. Reservada y algo tímida, convierte su arte en invocaciones de hielo que combaten a su lado.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/f/f0/Zhezhi_Card.png"
+      "img": "../assets/wuwa/Zhezhi_Card-1fe56f31.webp"
     },
     "nombre": "Zhezhi",
     "rareza": "5",
@@ -2040,7 +2040,7 @@ const CHARACTERS = [
       "nombreCompleto": "Xiangli Yao",
       "faccion": "Huanglong",
       "desc": "Investigador prodigio de la Academia de Huanglong. Brillante y algo excéntrico, combina ciencia y poder de Resonancia electro en un estilo de combate cuerpo a cuerpo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e9/Xiangli_Yao_Card.png"
+      "img": "../assets/wuwa/Xiangli_Yao_Card-0dd536cb.webp"
     },
     "nombre": "Xiangli Yao",
     "rareza": "5",
@@ -2128,7 +2128,7 @@ const CHARACTERS = [
       "nombreCompleto": "Guardacostas (Shorekeeper)",
       "faccion": "Costas Negras",
       "desc": "Guardiana creada por Lahai-Roi para custodiar las Costas Negras y a su Errante. Serena, sabia y de una calma casi eterna, sana y potencia a todo el equipo con poder Espectro.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/8/85/Shorekeeper_Card.png"
+      "img": "../assets/wuwa/Shorekeeper_Card-72de5ed1.webp"
     },
     "nombre": "Guardacostas (Shorekeeper)",
     "rareza": "5",
@@ -2216,7 +2216,7 @@ const CHARACTERS = [
       "nombreCompleto": "Camellya",
       "faccion": "Costas Negras",
       "desc": "Compañera enigmática y apasionada del Errante. De naturaleza intensa y devota, despliega enredaderas espinosas y poder de Estrago para arrasar a sus enemigos.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/8/8f/Camellya_Card.png"
+      "img": "../assets/wuwa/Camellya_Card-0d1f6a9b.webp"
     },
     "nombre": "Camellya",
     "rareza": "5",
@@ -2304,7 +2304,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lumi",
       "faccion": "Costas Negras",
       "desc": "Repartidora incansable y siempre optimista de la Oficina de Encargos. Enérgica y de buen corazón, canaliza su entusiasmo en veloces ataques eléctricos con su mandoble.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/e/ee/Lumi_Card.jpg"
+      "img": "../assets/wuwa/Lumi_Card-36b3ccc9.webp"
     },
     "nombre": "Lumi",
     "rareza": "4",
@@ -2392,7 +2392,7 @@ const CHARACTERS = [
       "nombreCompleto": "Carlotta",
       "faccion": "Rinascita",
       "desc": "Aristócrata y cazadora de Rinascita, miembro de la familia Montelli. Fría, elegante y letal, congela el tiempo con su poder Glacio y remata con sus pistolas de duelo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/8/8a/Carlotta_Card.png"
+      "img": "../assets/wuwa/Carlotta_Card-f6903efa.webp"
     },
     "nombre": "Carlotta",
     "rareza": "5",
@@ -2481,7 +2481,7 @@ const CHARACTERS = [
       "nombreCompleto": "Roccia",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Estrago con Guanteletes de Rinascita. Sub-DPS y facilitadora que amplifica el Daño Pesado/Estrago del equipo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/e/ea/Roccia_Card.png"
+      "img": "../assets/wuwa/Roccia_Card-a3607ef1.webp"
     },
     "nombre": "Roccia",
     "rareza": "5",
@@ -2570,7 +2570,7 @@ const CHARACTERS = [
       "nombreCompleto": "Youhu",
       "faccion": "Costas Negras",
       "desc": "Resonadora 4 estrellas de Glacio con Guanteletes. Soporte sanadora que cura a todo el equipo y potencia el Daño de Ataques Coordinados.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/b/b6/Youhu_Card.png"
+      "img": "../assets/wuwa/Youhu_Card-7fe89047.webp"
     },
     "nombre": "Youhu",
     "rareza": "4",
@@ -2659,7 +2659,7 @@ const CHARACTERS = [
       "nombreCompleto": "Phoebe",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Espectro con Rectificador de Rinascita. DPS/Sub-DPS que explota el Deterioro Espectro (Spectro Frazzle).",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/5/54/Phoebe_Card.png"
+      "img": "../assets/wuwa/Phoebe_Card-31c2fc6b.webp"
     },
     "nombre": "Phoebe",
     "rareza": "5",
@@ -2748,7 +2748,7 @@ const CHARACTERS = [
       "nombreCompleto": "Brant",
       "faccion": "Rinascita",
       "desc": "Resonador 5 estrellas de Fusion con Espada de Rinascita. Sub-DPS/soporte versatil que cura, escuda y buffea al equipo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/2/2d/Brant_Card.png"
+      "img": "../assets/wuwa/Brant_Card-e33103cd.webp"
     },
     "nombre": "Brant",
     "rareza": "5",
@@ -2837,7 +2837,7 @@ const CHARACTERS = [
       "nombreCompleto": "Cantarella",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Estrago con Rectificador de Rinascita. Sub-DPS/soporte de ataques coordinados que buffea a los DPS de Estrago.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/0/01/Cantarella_Card.png"
+      "img": "../assets/wuwa/Cantarella_Card-51119ae8.webp"
     },
     "nombre": "Cantarella",
     "rareza": "5",
@@ -2926,7 +2926,7 @@ const CHARACTERS = [
       "nombreCompleto": "Zani",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Espectro con Guanteletes de Rinascita. DPS principal que aplica y detona el Deterioro Espectro (Spectro Frazzle).",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/d/df/Zani_Card.png"
+      "img": "../assets/wuwa/Zani_Card-f13351d4.webp"
     },
     "nombre": "Zani",
     "rareza": "5",
@@ -3015,7 +3015,7 @@ const CHARACTERS = [
       "nombreCompleto": "Ciaccona",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Aereo con Pistolas de Rinascita. Sub-DPS de referencia que amplifica los equipos de Erosion Aerea.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/6/68/Ciaccona_Card.png"
+      "img": "../assets/wuwa/Ciaccona_Card-e5d094a2.webp"
     },
     "nombre": "Ciaccona",
     "rareza": "5",
@@ -3104,7 +3104,7 @@ const CHARACTERS = [
       "nombreCompleto": "Cartethyia",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Aereo con Espada de Rinascita. DPS principal de Erosion Aerea que escala con PV.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d5/Cartethyia_Card.png"
+      "img": "../assets/wuwa/Cartethyia_Card-5da311cb.webp"
     },
     "nombre": "Cartethyia",
     "rareza": "5",
@@ -3193,7 +3193,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lupa",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Fusion con Mandoble de Rinascita. Soporte-DPS que impulsa a los equipos de Fusion con buffs a todo el grupo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/e/e4/Lupa_Card.png"
+      "img": "../assets/wuwa/Lupa_Card-27b2f1d2.webp"
     },
     "nombre": "Lupa",
     "rareza": "5",
@@ -3281,7 +3281,7 @@ const CHARACTERS = [
       "nombreCompleto": "Phrolova",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Estrago con Rectificador; DPS principal que orquesta ataques del Eco Pesadilla: Hécate mediante habilidades de Eco encadenadas.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/0/0b/Phrolova_Card.png"
+      "img": "../assets/wuwa/Phrolova_Card-3e4e1fa8.webp"
     },
     "nombre": "Phrolova",
     "rareza": "5",
@@ -3358,7 +3358,7 @@ const CHARACTERS = [
       "nombreCompleto": "Augusta",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Electro con Mandoble; DPS agresiva que 'llega, ve y vence' con ataques pesados de alto Daño Crítico.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/3/39/Augusta_Card.png"
+      "img": "../assets/wuwa/Augusta_Card-fd898726.webp"
     },
     "nombre": "Augusta",
     "rareza": "5",
@@ -3435,7 +3435,7 @@ const CHARACTERS = [
       "nombreCompleto": "Iuno",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Aéreo con Guanteletes; sacerdotisa de poderes lunares que cambia de forma de arma, hace daño Aéreo y da escudos y curación al equipo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/1/1f/Iuno_Card.png"
+      "img": "../assets/wuwa/Iuno_Card-3b04eac6.webp"
     },
     "nombre": "Iuno",
     "rareza": "5",
@@ -3512,7 +3512,7 @@ const CHARACTERS = [
       "nombreCompleto": "Galbrena",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Fusión con Pistolas; excazadora de Discordia y operativa de las Costas Negras que canaliza poderes de Discordia Tácita mediante su 'impulso ardiente'.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9d/Galbrena_Card.jpg"
+      "img": "../assets/wuwa/Galbrena_Card-c3faaef3.webp"
     },
     "nombre": "Galbrena",
     "rareza": "5",
@@ -3583,7 +3583,7 @@ const CHARACTERS = [
       "nombreCompleto": "Qiuyuan",
       "faccion": "Rinascita",
       "desc": "Resonador 5 estrellas de Aéreo con Espada; espadachín ciego que 've el mundo a través del bambú' con su Visión Mental y hace daño Aéreo con ataques pesados.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/1/17/Qiuyuan_Card.jpg"
+      "img": "../assets/wuwa/Qiuyuan_Card-8eb92521.webp"
     },
     "nombre": "Qiuyuan",
     "rareza": "5",
@@ -3667,7 +3667,7 @@ const CHARACTERS = [
       "nombreCompleto": "Chisa",
       "faccion": "Rinascita",
       "desc": "Resonadora 5 estrellas de Estrago con Mandoble; Resonadora mutante que percibe 'hilos' destructivos en los objetos para analizar debilidades e inducir fallos estructurales.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/c/ca/Chisa_Card.jpg"
+      "img": "../assets/wuwa/Chisa_Card-91a97e0d.webp"
     },
     "nombre": "Chisa",
     "rareza": "5",
@@ -3743,7 +3743,7 @@ const CHARACTERS = [
       "nombreCompleto": "Buling",
       "faccion": "Costas Negras",
       "desc": "Resonadora 4 estrellas de Electro con Rectificador; sanadora y soporte que canaliza técnicas de cultivo de Qi eléctrico y buffea al equipo mediante su estado de Equilibrio Yin-Yang.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/5/58/Buling_Card.jpg"
+      "img": "../assets/wuwa/Buling_Card-d857e7ee.webp"
     },
     "nombre": "Buling",
     "rareza": "4",
@@ -3814,7 +3814,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lynae",
       "faccion": "Lahai-Roi",
       "desc": "Resonadora 5 estrellas de Espectro con Pistolas; estudiante de la Academia Startorch cuyo estilo eléctrico y llamativo esconde una concentración interior tan explosiva como un resorte comprimido.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/7/71/Lynae_Card.jpg"
+      "img": "../assets/wuwa/Lynae_Card-286833dc.webp"
     },
     "nombre": "Lynae",
     "rareza": "5",
@@ -3885,7 +3885,7 @@ const CHARACTERS = [
       "nombreCompleto": "Mornye",
       "faccion": "Lahai-Roi",
       "desc": "Resonadora 5 estrellas de Fusión con Mandoble; ingeniera y profesora del Departamento de Ingeniería Exostrider que combina control mecánico y soporte de curación para amplificar el daño del equipo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/e/eb/Mornye_Card.jpg"
+      "img": "../assets/wuwa/Mornye_Card-a9faf1d2.webp"
     },
     "nombre": "Mornye",
     "rareza": "5",
@@ -3981,7 +3981,7 @@ const CHARACTERS = [
       "nombreCompleto": "Aemeath",
       "faccion": "Lahai-Roi",
       "desc": "Resonadora de Fusión con espada, primera DPS dedicada a Ruptura de Sintonía y núcleo de los equipos de Ruptura junto a Lynae y Mornye; también rinde de forma sobresaliente en composiciones de Fusión Estallido.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9b/Aemeath_Convene_Draw.png"
+      "img": "../assets/wuwa/Aemeath_Convene_Draw-ceb53e48.webp"
     },
     "version": "3.1"
   },
@@ -4072,7 +4072,7 @@ const CHARACTERS = [
       "nombreCompleto": "Luuk Herssen",
       "faccion": "Lahai-Roi",
       "desc": "Resonador de Espectro que usa guanteletes; DPS principal de Ataque Básico aéreo cuya Liberación, potenciada por su ataque en picado, es uno de los mayores nukes del juego.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/f/fc/Luuk_Herssen_Convene_Draw.png"
+      "img": "../assets/wuwa/Luuk_Herssen_Convene_Draw-70396b0f.webp"
     },
     "version": "3.1"
   },
@@ -4162,7 +4162,7 @@ const CHARACTERS = [
       "nombreCompleto": "Sigrika",
       "faccion": "Lahai-Roi",
       "desc": "Resonadora de Aéreo con guanteletes y DPS principal especializada en Daño de Habilidad de Eco; consume runas para lanzar Ataques Fuertes Mejorados que dañan y aplican control de masas.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/6/6d/Sigrika_Convene_Draw.png"
+      "img": "../assets/wuwa/Sigrika_Convene_Draw-d8db1837.webp"
     },
     "version": "3.2"
   },
@@ -4253,7 +4253,7 @@ const CHARACTERS = [
       "nombreCompleto": "Hiyuki",
       "faccion": "Lahai-Roi",
       "desc": "Resonadora de Glacio con espada y DPS principal cuyo daño gira en torno a la Liberación de Resonancia y la aplicación de Glacio Rozadura; brilla junto a Lucilla como sub-DPS.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/c/cf/Hiyuki_Convene_Draw.png"
+      "img": "../assets/wuwa/Hiyuki_Convene_Draw-bfb112e5.webp"
     },
     "version": "3.3"
   },
@@ -4344,7 +4344,7 @@ const CHARACTERS = [
       "nombreCompleto": "Denia",
       "faccion": "Lahai-Roi",
       "desc": "Resonadora de Fusión con rectificador; soporte y amplificadora premium para equipos de Fusión Estallido, con un modo alterno de Alteración de Sintonía que refuerza a los equipos de Ruptura.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/3/3b/Denia_Convene_Draw.png"
+      "img": "../assets/wuwa/Denia_Convene_Draw-55f2e91d.webp"
     },
     "version": "3.3"
   },
@@ -4434,7 +4434,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lucilla",
       "faccion": "Lahai-Roi",
       "desc": "Resonadora de Glacio con rectificador; sub-DPS y buffer flexible que, según su Modo de Resonancia, potencia equipos de Glacio Rozadura (con Hiyuki) o de Habilidad de Eco (con Sigrika).",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/5/51/Lucilla_Card.jpg"
+      "img": "../assets/wuwa/Lucilla_Card-8d523e53.webp"
     },
     "version": "3.4"
   },
@@ -4525,7 +4525,7 @@ const CHARACTERS = [
       "nombreCompleto": "Lucy",
       "faccion": "Cyberpunk: Edgerunners (colab)",
       "desc": "Resonadora de Espectro con pistolas de la colaboración Cyberpunk: Edgerunners (v3.4); DPS principal de Ataque Pesado con una Liberación única que congela a los enemigos en el tiempo y ejecuta programas de hackeo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/3/32/Lucy_Card.jpg"
+      "img": "../assets/wuwa/Lucy_Card-7e7a9acb.webp"
     },
     "version": "3.4"
   },
@@ -4616,7 +4616,7 @@ const CHARACTERS = [
       "nombreCompleto": "Rebecca",
       "faccion": "Cyberpunk: Edgerunners (colab)",
       "desc": "Resonadora de Electro con pistolas de la colaboración Cyberpunk: Edgerunners (v3.4); sub-DPS y amplificadora de alta cadencia que acumula Fervor y potencia al equipo, especialmente a DPS de Ataque Pesado.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/c/c5/Rebecca_Card.jpg"
+      "img": "../assets/wuwa/Rebecca_Card-e736237a.webp"
     },
     "version": "3.4"
   },
@@ -4702,7 +4702,7 @@ const CHARACTERS = [
       "nombreCompleto": "Errante (Electro)",
       "faccion": "Protagonista",
       "desc": "Cuarto despertar elemental del protagonista, ahora con resonancia Electro (5★, espada). Rol confirmado por la wiki: eficiencia de Concierto, daño de Habilidad de Resonancia y aplicación de Aflicción Eléctrica (Electro Flare) para los equipos de estados negativos.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/7/70/Rover_1.png"
+      "img": "../assets/wuwa/Rover_1-82ac502c.webp"
     },
     "nombre": "Errante (Electro)",
     "rareza": "5",
@@ -4799,7 +4799,7 @@ const CHARACTERS = [
       "nombreCompleto": "Yangyang: Xuanling",
       "faccion": "Huanglong",
       "desc": "\"Voices of Azure Plume\". Variante 5★ Estrago de Yangyang, ligada al bastión de Xuanfang en la nueva región de Mengzhou (antes delegada de Jinzhou y de los Guardias de Medianoche). Primera DPS que explota la Perdición de Estrago como núcleo de su kit.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4d/Yangyang_Xuanling_Card.jpg"
+      "img": "../assets/wuwa/Yangyang_Xuanling_Card-58a154ad.webp"
     },
     "nombre": "Yangyang: Xuanling",
     "rareza": "5",
@@ -4904,7 +4904,7 @@ const CHARACTERS = [
       "nombreCompleto": "Qingxiao",
       "faccion": "Huanglong",
       "desc": "Resonadora 5 estrellas de Aéreo con Espada; espadachina reclusa con el título nominal de Xuan Paragon de los Xuanfang Wardens y maestra del qin y la espada, adscrita al Ministerio de Guerra. DPS principal de Tensión de Tonalidad cuya rotación se completa casi sola manteniendo el Ataque Básico.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/1/1b/Qingxiao_Card.jpg"
+      "img": "../assets/wuwa/Qingxiao_Card-16e5823d.webp"
     },
     "version": "3.6"
   },
@@ -5004,7 +5004,7 @@ const CHARACTERS = [
       "nombreCompleto": "Jingran",
       "faccion": "Huanglong",
       "desc": "Resonador 5 estrellas de Fusión con Mandoble; Nethermancer de Mengzhou que explora Reinos de Espejismo y ruinas olvidadas. DPS principal de Ataque Pesado que convierte su PV máximo en ATQ y Daño Fusión y se potencia con los escudos del equipo.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/4/44/Jingran_Card.jpg"
+      "img": "../assets/wuwa/Jingran_Card-2ece14d6.webp"
     },
     "version": "3.6"
   },
@@ -5082,7 +5082,7 @@ const CHARACTERS = [
       "nombreCompleto": "Hsin",
       "faccion": "Huanglong",
       "desc": "Resonadora 5 estrellas de Electro con Rectificador, conocida como \"La Zorra de la Luna\"; una de las siete Centinelas de Huanglong, ubicada en Mengzhou. Amante de las fiestas y las travesuras, es DPS principal de Habilidad de Resonancia y Electro Flare.",
-      "img": "https://static.wikia.nocookie.net/wutheringwaves/images/d/d6/Hsin_Card.jpg"
+      "img": "../assets/wuwa/Hsin_Card-ed9fece8.webp"
     },
     "version": "3.7"
   }
